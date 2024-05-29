@@ -1,0 +1,1035 @@
+﻿Passenger Email,Travel Insurance?,Purchase Date,Travel Date,Fare Type,Ticket Price,Route,Row_ID,Person
+bgonzalez@axiom.com,TRUE,12/21/2018,01/05/2019,Economy,101,DAL-PHX,69,Barry Gonzalez
+scartwright@axiom.com,FALSE,11/28/2018,01/02/2019,Economy,93,DAL-LAS,714,Steven Cartwright
+mengle@axiom.com,FALSE,8/31/2018,01/02/2019,First Class,282,DAL-HOU,514,Max Engle
+beplett@axiom.com,FALSE,11/23/2018,01/04/2019,Business,70,DAL-SEA,89,Bill Eplett
+smatthias@axiom.com,FALSE,11/21/2018,01/01/2019,Economy,109,DAL-GRR,666,Sally Matthias
+mdominguez@axiom.com,FALSE,11/09/2018,01/02/2019,Business,93,DAL-AUS,523,Michael Dominguez
+mengle@axiom.com,FALSE,12/19/2018,01/02/2019,Economy,148,DAL-HOU,514,Max Engle
+mdominguez@axiom.com,FALSE,11/25/2018,01/02/2019,Business,174,DAL-AUS,523,Michael Dominguez
+beplett@axiom.com,FALSE,12/03/2018,01/04/2019,Economy,74,DAL-CLE,89,Bill Eplett
+klampkin@axiom.com,FALSE,5/20/2019,9/14/2019,Economy,132,DAL-PHX,436,Kelly Lampkin
+cmitchell@axiom.com,FALSE,12/05/2019,12/29/2019,First Class,269,DAL-OKC,176,Corinna Mitchell
+kdana@axiom.com,TRUE,12/03/2019,12/14/2019,Economy,107,DAL-PHX,440,Ken Dana
+cdarley@axiom.com,FALSE,8/16/2019,12/03/2019,Economy,78,DAL-MDW,131,Carol Darley
+arussell@axiom.com,FALSE,10/04/2019,10/16/2019,Economy,120,DAL-AUS,23,Alex Russell
+jkimmel@axiom.com,FALSE,11/14/2019,11/23/2019,Economy,97,DAL-SLC,357,Jay Kimmel
+knguyen@axiom.com,TRUE,09/01/2019,10/01/2019,Economy,83,DAL-OKC,429,Kean Nguyen
+agayman@axiom.com,FALSE,08/05/2019,8/31/2019,Business,102,DAL-SLC,45,Anna Gayman
+kmeade@axiom.com,FALSE,9/18/2019,12/12/2019,Business,80,DAL-AUS,414,Kalyca Meade
+jkriz@axiom.com,FALSE,10/31/2019,11/25/2019,Economy,94,DAL-HOU,375,Jim Kriz
+ashonely@axiom.com,FALSE,12/30/2018,1/27/2019,Economy,104,DAL-MDW,16,Alan Shonely
+nhansen@axiom.com,FALSE,8/17/2019,10/26/2019,Economy,100,DAL-OKC,573,Nicole Hansen
+pfuller@axiom.com,FALSE,8/19/2019,09/12/2019,Economy,98,DAL-OKC,607,Peter Fuller
+cschnelling@axiom.com,FALSE,6/30/2019,7/26/2019,Business,139,DAL-OKC,165,Cindy Schnelling
+mkennedy@axiom.com,FALSE,7/29/2019,8/22/2019,Economy,88,DAL-OKC,543,Mike Kennedy
+jwest,FALSE,09/07/2019,9/29/2019,Economy,157,DAL-OKC,404,Julia West
+dordway,FALSE,12/03/2018,1/25/2019,Economy,126,DAL-HOU,228,Denny Ordway
+jgalang@axiom.com,FALSE,4/13/2019,6/21/2019,Economy,73,DAL-GRR,343,James Galang
+phirasaki@axiom.com,TRUE,9/22/2019,10/08/2019,First Class,271,DAL-HOU,585,Patricia Hirasaki
+arawles@axiom.com,FALSE,8/30/2019,10/05/2019,Business,163,DAL-AMA,55,Anthony Rawles
+sfoster@axiom.com,FALSE,09/12/2019,10/16/2019,Economy,80,DAL-LAS,679,Sarah Foster
+dmiller@axiom.com,TRUE,09/09/2019,9/25/2019,Economy,84,DAL-MDW,234,Don Miller
+abergman@axiom.com,FALSE,06/08/2019,07/04/2019,Economy,140,DAL-GRR,1,Aaron Bergman
+dphilippe@axiom.com,FALSE,11/11/2019,12/10/2019,Economy,155,DAL-OKC,210,David Philippe
+bderr@axiom.com,TRUE,1/22/2019,2/28/2019,Economy,69,DAL-LAS,109,Brian Derr
+dmartin@axiom.com,FALSE,11/28/2019,12/24/2019,Economy,113,DAL-ATL,200,Darrin Martin
+rhaberlin@axiom.com,TRUE,02/06/2019,04/11/2019,Business,78,DAL-SEA,639,Rob Haberlin
+gkelly@axiom.com,FALSE,11/13/2019,12/14/2019,Economy,130,DAL-LGA,307,Grace Kelly
+hredmond@axiom.com,FALSE,10/11/2019,10/24/2019,Business,119,DAL-AUS,317,Hallie Redmond
+scooley@axiom.com,FALSE,10/26/2019,11/11/2019,Economy,68,DAL-SEA,704,Sonia Cooley
+rskaria@axiom.com,TRUE,3/24/2019,6/16/2019,Business,137,DAL-PHX,657,Roy Skaria
+amcfarland@axiom.com,FALSE,12/07/2019,12/29/2019,Economy,120,DAL-HOU,47,Anne McFarland
+lwillingham@axiom.com,FALSE,11/15/2019,12/14/2019,Economy,168,DAL-SLC,474,Liz Willingham
+jmartin@axiom.com,FALSE,08/12/2019,09/05/2019,Economy,153,DAL-ELP,349,Janet Martin
+cmelton@axiom.com,FALSE,08/09/2019,9/17/2019,Economy,64,DAL-HOU,145,Charlotte Melton
+cludtke@axiom.com,FALSE,08/07/2019,09/06/2019,First Class,293,DAL-ATL,170,Clay Ludtke
+sshariari@axiom.com,FALSE,12/10/2018,1/26/2019,Economy,141,DAL-PHX,724,Sung Shariari
+gguthrie@axiom.com,TRUE,12/03/2019,12/15/2019,Economy,82,DAL-HOU,309,Greg Guthrie
+x,FALSE,9/29/2019,10/13/2019,Economy,145,DAL-ELP,191,Dan Reichenbach
+aarmold@axiom.com,TRUE,6/25/2019,08/01/2019,First Class,296,DAL-ATL,25,Allen Armold
+cleslie@axiom.com,FALSE,11/09/2018,1/17/2019,Economy,151,DAL-OKC,179,Craig Leslie
+jcastell@axiom.com,TRUE,12/07/2019,12/24/2019,Economy,131,DAL-AMA,384,John Castell
+ahwang@axiom.com,FALSE,8/20/2019,09/05/2019,Business,156,DAL-ATL,14,Alan Hwang
+ahwang@axiom.com,TRUE,7/29/2019,09/05/2019,First Class,222,DAL-ATL,14,Alan Hwang
+rdowd@axiom.com,TRUE,08/09/2019,9/15/2019,Economy,154,DAL-HOU,638,Rob Dowd
+cmcmahon@axiom.com,FALSE,12/23/2018,2/28/2019,Economy,102,DAL-HOU,121,Candace McMahon
+tchand@axiom.com,FALSE,12/14/2019,12/25/2019,Economy,139,DAL-LGA,731,Tamara Chand
+pbreyer@axiom.com,FALSE,08/08/2019,09/12/2019,Economy,97,DAL-MDW,613,Phillip Breyer
+mgastineau@axiom.com,FALSE,9/29/2019,10/26/2019,First Class,260,DAL-ATL,546,Mitch Gastineau
+jfein@axiom.com,FALSE,12/21/2018,1/30/2019,Economy,119,DAL-ATL,356,Jay Fein
+mlaware@axiom.com,FALSE,6/21/2019,7/31/2019,Economy,139,DAL-PHX,493,Maris LaWare
+mvan@axiom.com,FALSE,11/27/2019,12/06/2019,Economy,151,DAL-ATL,498,Mark Van Huff
+jellison@axiom.com,FALSE,8/16/2019,11/02/2019,Economy,89,DAL-LAS,364,Jeremy Ellison
+mgastineau@axiom.com,FALSE,7/17/2019,9/22/2019,Economy,72,DAL-LAS,511,Maureen Gastineau
+ajones@axiom.com,FALSE,4/21/2019,06/12/2019,Economy,77,DAL-MDW,64,Astrea Jones
+rbarroso@axiom.com,FALSE,08/06/2019,9/14/2019,Economy,70,DAL-MDW,642,Robert Barroso
+mabelman@axiom.com,TRUE,10/05/2019,10/17/2019,Economy,107,DAL-LGA,503,Matt Abelman
+ptakahito@axiom.com,FALSE,04/03/2019,5/20/2019,Economy,138,DAL-SEA,605,Pete Takahito
+creiten@axiom.com,FALSE,03/08/2019,3/22/2019,Economy,102,DAL-ATL,187,Cyra Reiten
+mo'rourke@axiom.com,FALSE,4/15/2019,05/08/2019,Economy,152,DAL-AUS,499,Mary O'Rourke
+lleatherbury@axiom.com,TRUE,04/08/2019,6/19/2019,Business,150,DAL-AUS,455,Lauren Leatherbury
+abarton@axiom.com,FALSE,10/26/2019,11/23/2019,Economy,110,DAL-OKC,7,Adrian Barton
+bpond@axiom.com,FALSE,12/08/2019,12/24/2019,Economy,107,DAL-LGA,70,Barry Pond
+schand@axiom.com,FALSE,04/04/2019,4/29/2019,Economy,135,DAL-CLE,672,Sanjit Chand
+jradford@axiom.com,TRUE,11/09/2019,12/25/2019,Economy,125,DAL-MDW,377,Jim Radford
+rbarroso@axiom.com,TRUE,11/05/2019,11/14/2019,Economy,101,DAL-TUL,642,Robert Barroso
+canderson@axiom.com,FALSE,10/16/2019,12/08/2019,Economy,75,DAL-HOU,150,Christina Anderson
+so'donnell@axiom.com,TRUE,4/20/2019,05/04/2019,Business,94,DAL-LGA,688,Sean O'Donnell
+hmarie@axiom.com,FALSE,8/25/2019,10/27/2019,Economy,139,DAL-ATL,323,Harry Marie
+bkampe@axiom.com,FALSE,05/05/2019,5/22/2019,Economy,82,DAL-LGA,84,Berenike Kampe
+rmurray@axiom.com,FALSE,05/07/2019,5/23/2019,Economy,121,DAL-LGA,649,Roland Murray
+lcurrie@axiom.com,FALSE,9/18/2019,11/24/2019,Economy,136,DAL-OKC,475,Logan Currie
+emurdock@axiom.com,FALSE,11/06/2019,11/12/2019,Business,104,DAL-OKC,263,Eric Murdock
+againer@axiom.com,FALSE,11/20/2019,12/20/2019,Economy,118,DAL-HOU,60,Arthur Gainer
+jmolinari@axiom.com,FALSE,10/22/2019,11/09/2019,Economy,124,DAL-MDW,350,Janet Molinari
+mpacker@axiom.com,TRUE,03/07/2019,3/17/2019,Economy,62,DAL-HOU,497,Mark Packer
+cdaly@axiom.com,FALSE,9/24/2019,11/10/2019,First Class,244,DAL-ATL,127,Carlos Daly
+jdaniels@axiom.com,FALSE,07/06/2019,09/05/2019,Economy,122,DAL-PHX,400,Joy Daniels
+cmitchell@axiom.com,FALSE,4/22/2019,4/30/2019,Economy,106,DAL-ELP,176,Corinna Mitchell
+dbenoit@axiom.com,FALSE,8/17/2019,09/12/2019,Economy,125,DAL-PHX,243,Duane Benoit
+achung@axiom.com,FALSE,8/19/2019,9/29/2019,Economy,69,DAL-LGA,44,Anna Chung
+mabelman@axiom.com,FALSE,05/11/2019,06/07/2019,First Class,264,DAL-HOU,503,Matt Abelman
+lshagiari@axiom.com,FALSE,07/02/2019,10/30/2019,First Class,251,DAL-PHX,464,Lindsay Shagiari
+jkarlsson@axiom.com,FALSE,11/13/2019,11/28/2019,Economy,125,DAL-LGA,374,Jim Karlsson
+tpippenger@axiom.com,FALSE,8/20/2019,11/12/2019,First Class,230,DAL-MDW,741,Theone Pippenger
+,FALSE,4/17/2019,4/25/2019,Economy,120,DAL-GRR,671,Sandra Glassco
+tritter@axiom.com,FALSE,10/05/2019,11/13/2019,Economy,60,DAL-MDW,754,Toby Ritter
+jcaffey@axiom.com,FALSE,11/16/2019,12/07/2019,First Class,282,DAL-ELP,358,Jenna Caffey
+tboyes@axiom.com,FALSE,03/11/2019,07/05/2019,First Class,221,DAL-HOU,756,Todd Boyes
+kmeade@axiom.com,FALSE,11/28/2019,12/12/2019,Business,124,DAL-LGA,414,Kalyca Meade
+kmeade@axiom.com,FALSE,11/12/2019,12/12/2019,Economy,137,DAL-LAS,414,Kalyca Meade
+scartwright@axiom.com,FALSE,12/08/2018,3/25/2019,Economy,101,DAL-OKC,714,Steven Cartwright
+mgrace@axiom.com,TRUE,5/25/2019,6/13/2019,Economy,96,DAL-ELP,524,Michael Grace
+agarverick@axiom.com,FALSE,10/29/2019,11/22/2019,Economy,80,DAL-AUS,51,Anthony Garverick
+lhughes@axiom.com,FALSE,10/20/2019,11/22/2019,Economy,75,DAL-OKC,449,Larry Hughes
+dliebe@axiom.com,FALSE,08/04/2019,10/07/2019,Economy,123,DAL-HOU,239,Dorris liebe
+dwilson@axiom.com,FALSE,10/05/2019,12/05/2019,Economy,61,DAL-HOU,231,Dianna Wilson
+mkennedy@axiom.com,FALSE,08/05/2019,8/22/2019,Business,166,DAL-OKC,543,Mike Kennedy
+bfranzösisch@axiom.com,FALSE,6/30/2019,9/26/2019,Economy,114,DAL-SEA,68,Barry Französisch
+psewall@axiom.com,FALSE,11/15/2019,12/08/2019,Economy,145,DAL-GRR,602,Penelope Sewall
+plucas@axiom.com,FALSE,11/21/2019,12/29/2019,Economy,83,DAL-ELP,594,Paul Lucas
+dbraden@axiom.com,FALSE,8/18/2019,09/07/2019,Economy,114,DAL-OKC,213,Dean Braden
+jwaco@axiom.com,FALSE,07/06/2019,9/20/2019,Economy,108,DAL-AMA,347,Jane Waco
+rpayne@axiom.com,FALSE,08/04/2019,10/06/2019,First Class,214,DAL-OKC,617,Rachel Payne
+bstugart@axiom.com,FALSE,1/18/2019,02/04/2019,Economy,133,DAL-HOU,111,Brian Stugart
+nstaavos@axiom.com,FALSE,04/08/2019,5/14/2019,Economy,117,DAL-OKC,575,Noel Staavos
+jgarza@axiom.com,FALSE,04/04/2019,6/26/2019,Economy,111,DAL-LGA,340,Jack Garza
+ptakahito@axiom.com,FALSE,10/02/2019,12/02/2019,Economy,99,DAL-SLC,605,Pete Takahito
+habelman@axiom.com,TRUE,4/20/2019,5/18/2019,First Class,240,DAL-HOU,326,Helen Abelman
+bdodson@axiom.com,FALSE,03/10/2019,04/11/2019,Economy,121,DAL-AUS,104,Brendan Dodson
+jklamczynski@axiom.com,FALSE,04/10/2019,5/25/2019,Economy,79,DAL-ATL,354,Jason Klamczynski
+nradford@axiom.com,FALSE,05/09/2019,6/21/2019,Economy,101,DAL-MDW,569,Nick Radford
+tsayre@axiom.com,TRUE,10/22/2019,11/11/2019,Economy,154,DAL-ATL,765,Tony Sayre
+eballard@axiom.com,FALSE,3/16/2019,5/21/2019,Economy,144,DAL-AMA,255,Ellis Ballard
+cselesnick@axiom.com,FALSE,1/30/2019,04/02/2019,Business,156,DAL-PHX,149,Chris Selesnick
+abarnes@axiom.com,TRUE,10/01/2019,11/10/2019,Business,129,DAL-LGA,11,Alan Barnes
+pryan@axiom.com,FALSE,7/18/2019,08/07/2019,Economy,93,DAL-AUS,591,Patrick Ryan
+dsayre@axiom.com,FALSE,11/09/2019,12/12/2019,Economy,159,DAL-LAS,201,Darrin Sayre
+mvittorini@axiom.com,FALSE,6/23/2019,6/30/2019,Business,103,DAL-ATL,545,Mike Vittorini
+npelletier@axiom.com,FALSE,2/21/2019,4/21/2019,First Class,301,DAL-ATL,578,Nora Pelletier
+ahane@axiom.com,FALSE,09/02/2019,09/08/2019,Economy,103,DAL-LGA,8,Adrian Hane
+ahane@axiom.com,TRUE,7/28/2019,11/21/2019,Economy,158,DAL-ATL,8,Adrian Hane
+hflentye@axiom.com,FALSE,06/02/2019,7/15/2019,Economy,95,DAL-SEA,332,Herbert Flentye
+ajohnson@axiom.com,FALSE,5/23/2019,6/25/2019,Economy,61,DAL-HOU,53,Anthony Johnson
+cglotzbach@axiom.com,FALSE,10/05/2019,11/21/2019,Economy,140,DAL-ELP,135,Catherine Glotzbach
+aferguson@axiom.com,FALSE,11/24/2019,12/12/2019,Economy,97,DAL-AUS,58,Art Ferguson
+jjackson@axiom.com,TRUE,7/28/2019,11/05/2019,Economy,94,DAL-LAS,362,Jennifer Jackson
+tprescott@axiom.com,FALSE,8/20/2019,12/04/2019,Economy,121,DAL-MDW,760,Tom Prescott
+mludwig@axiom.com,FALSE,07/06/2019,8/30/2019,Economy,139,DAL-MDW,516,Max Ludwig
+ahaines@axiom.com,FALSE,06/06/2019,10/06/2019,Economy,65,DAL-HOU,13,Alan Haines
+rkennedy@axiom.com,TRUE,10/20/2019,12/01/2019,Economy,79,DAL-AUS,619,Ralph Kennedy
+ahwang@axiom.com,TRUE,08/11/2019,09/05/2019,Economy,107,DAL-HOU,14,Alan Hwang
+rdowd@axiom.com,FALSE,07/12/2019,9/15/2019,Economy,123,DAL-HOU,638,Rob Dowd
+carntzen@axiom.com,FALSE,11/10/2019,12/28/2019,Business,143,DAL-PHX,184,Cynthia Arntzen
+dbadders@axiom.com,FALSE,07/12/2019,08/04/2019,Economy,129,DAL-AUS,236,Dorothy Badders
+bpak@axiom.com,FALSE,9/29/2019,11/25/2019,Business,126,DAL-ATL,77,Becky Pak
+sshifley@axiom.com,TRUE,09/08/2019,10/12/2019,Economy,79,DAL-AUS,675,Saphhira Shifley
+bhoffman@axiom.com,FALSE,5/27/2019,6/13/2019,Economy,153,DAL-ATL,114,Brosina Hoffman
+ajones@axiom.com,FALSE,5/15/2019,06/12/2019,Economy,79,DAL-LAS,64,Astrea Jones
+cludwig@axiom.com,FALSE,11/29/2019,12/10/2019,Economy,151,DAL-GRR,125,Carl Ludwig
+achong@axiom.com,FALSE,10/21/2019,12/02/2019,Economy,119,DAL-GRR,41,Ann Chong
+mzettner@axiom.com,TRUE,7/21/2019,10/11/2019,Business,176,DAL-PHX,488,Maria Zettner
+lpelletier@axiom.com,FALSE,10/18/2019,11/13/2019,Economy,83,DAL-LGA,471,Liz Pelletier
+creiten@axiom.com,FALSE,01/09/2019,3/22/2019,First Class,269,DAL-LGA,187,Cyra Reiten
+crozendal@axiom.com,FALSE,10/21/2019,12/09/2019,Economy,63,DAL-PHX,171,Clay Rozendal
+knockton@axiom.com,FALSE,07/09/2019,09/03/2019,Business,135,DAL-PHX,425,Katherine Nockton
+dblanton@axiom.com,TRUE,10/17/2019,12/27/2019,First Class,233,DAL-ATL,226,Denny Blanton
+mschwartz@axiom.com,FALSE,1/31/2019,04/05/2019,Business,140,DAL-SEA,517,Maxwell Schwartz
+ssunley@axiom.com,FALSE,8/19/2019,10/24/2019,Economy,131,DAL-PHX,705,Sonia Sunley
+rlucas@axiom.com,TRUE,4/17/2019,6/18/2019,Economy,92,DAL-AUS,640,Rob Lucas
+ajacobs@axiom.com,FALSE,8/13/2019,9/20/2019,Economy,150,DAL-ELP,52,Anthony Jacobs
+croper@axiom.com,FALSE,6/16/2019,07/06/2019,Economy,67,DAL-HOU,174,Corey Roper
+rausman@axiom.com,TRUE,10/05/2019,12/27/2019,Economy,155,DAL-MDW,658,Ruben Ausman
+schand@axiom.com,FALSE,12/11/2019,12/24/2019,Business,169,DAL-PHX,672,Sanjit Chand
+dsmith@axiom.com,TRUE,09/05/2019,11/08/2019,Business,144,DAL-OKC,211,David Smith
+fgastineau@axiom.com,FALSE,10/23/2019,11/16/2019,Economy,66,DAL-HOU,283,Frank Gastineau
+tbraunhardt@axiom.com,FALSE,11/01/2019,12/22/2019,Economy,110,DAL-AUS,751,Toby Braunhardt
+rkennedy@axiom.com,FALSE,08/05/2019,8/17/2019,Economy,71,DAL-AUS,619,Ralph Kennedy
+x,FALSE,7/31/2019,11/05/2019,Business,154,DAL-AUS,415,Karen Bern
+dkendrick@axiom.com,FALSE,10/30/2019,11/09/2019,Economy,134,DAL-MDW,209,David Kendrick
+iliston@axiom.com,TRUE,02/08/2019,3/30/2019,Economy,63,DAL-LAS,339,Ivan Liston
+mjones@axiom.com,FALSE,11/13/2019,12/18/2019,Business,140,DAL-AMA,515,Max Jones
+jmolinari@axiom.com,FALSE,10/08/2019,11/09/2019,Economy,128,DAL-GRR,350,Janet Molinari
+dvittorini@axiom.com,TRUE,11/09/2019,12/04/2019,Economy,100,DAL-LAS,230,Dianna Vittorini
+cclark@axiom.com,TRUE,7/22/2019,10/15/2019,Business,169,DAL-GRR,161,Chuck Clark
+jhirsh@axiom.com,FALSE,7/19/2019,09/12/2019,Economy,125,DAL-AUS,411,Justin Hirsh
+scalhoun@axiom.com,FALSE,3/20/2019,04/04/2019,Economy,146,DAL-LGA,719,Stuart Calhoun
+gtran@axiom.com,FALSE,10/10/2019,10/23/2019,Economy,104,DAL-OKC,313,Greg Tran
+tdahlen@axiom.com,FALSE,1/29/2019,2/14/2019,Economy,63,DAL-HOU,732,Tamara Dahlen
+csachs@axiom.com,FALSE,1/19/2019,02/12/2019,Economy,134,DAL-PHX,163,Chuck Sachs
+sbern@axiom.com,FALSE,10/01/2019,12/10/2019,Economy,143,DAL-GRR,677,Sarah Bern
+ejacobs@axiom.com,FALSE,6/25/2019,7/27/2019,Business,168,DAL-PHX,276,Eva Jacobs
+ehildebrand@axiom.com,TRUE,10/22/2019,11/15/2019,Economy,75,DAL-HOU,274,Eugene Hildebrand
+sflanagan@axiom.com,TRUE,11/17/2019,12/05/2019,Economy,65,DAL-LAS,670,Sandra Flanagan
+ecreighton@axiom.com,TRUE,09/10/2019,9/22/2019,Economy,140,DAL-MDW,269,Erin Creighton
+jcaffey@axiom.com,FALSE,11/01/2019,12/07/2019,Business,111,DAL-PHX,358,Jenna Caffey
+arussell@axiom.com,TRUE,08/06/2019,10/16/2019,Economy,146,DAL-MDW,23,Alex Russell
+mkennedy@axiom.com,FALSE,9/28/2019,12/15/2019,Economy,123,DAL-HOU,526,Michael Kennedy
+kmeade@axiom.com,TRUE,10/28/2019,12/12/2019,Economy,146,DAL-AUS,414,Kalyca Meade
+swilliamson@axiom.com,FALSE,12/15/2018,03/08/2019,First Class,270,DAL-ATL,684,Scott Williamson
+x,FALSE,9/16/2019,10/07/2019,Economy,143,DAL-ATL,415,Karen Bern
+lcacioppo@axiom.com,TRUE,10/19/2019,11/27/2019,Economy,130,DAL-OKC,457,Lena Cacioppo
+ashonely@axiom.com,FALSE,10/25/2018,1/27/2019,Economy,64,DAL-MDW,16,Alan Shonely
+hmacallister@axiom.com,FALSE,7/26/2019,09/11/2019,Economy,138,DAL-OKC,331,Henry MacAllister
+dpoirier@axiom.com,FALSE,4/27/2019,07/02/2019,Economy,72,DAL-MDW,206,Dave Poirier
+fatkinson@axiom.com,FALSE,11/22/2019,12/10/2019,Economy,127,DAL-PHX,281,Frank Atkinson
+dwilson@axiom.com,FALSE,10/13/2019,12/05/2019,Business,132,DAL-PHX,231,Dianna Wilson
+mkennedy@axiom.com,FALSE,7/24/2019,8/22/2019,First Class,275,DAL-HOU,543,Mike Kennedy
+kbrennan@axiom.com,FALSE,11/22/2019,12/21/2019,Economy,143,DAL-AUS,439,Ken Brennan
+gashbrook@axiom.com,FALSE,9/23/2019,11/04/2019,First Class,277,DAL-TUL,300,George Ashbrook
+dordway,TRUE,11/15/2018,1/25/2019,Economy,149,DAL-ELP,228,Denny Ordway
+bstugart@axiom.com,FALSE,01/05/2019,02/04/2019,Business,130,DAL-PHX,111,Brian Stugart
+jgalang@axiom.com,FALSE,3/24/2019,6/21/2019,Economy,116,DAL-PHX,343,James Galang
+hengle@axiom.com,FALSE,10/14/2019,12/02/2019,Economy,74,DAL-HOU,319,Harold Engle
+eburns@axiom.com,FALSE,9/15/2019,10/19/2019,Business,120,DAL-HOU,257,Emily Burns
+bdonatelli@axiom.com,FALSE,11/06/2019,11/28/2019,Economy,131,DAL-LGA,88,Bill Donatelli
+ptakahito@axiom.com,FALSE,8/22/2019,12/02/2019,Economy,62,DAL-OKC,605,Pete Takahito
+sschmidt@axiom.com,TRUE,10/12/2019,12/04/2019,Economy,102,DAL-MDW,700,Shirley Schmidt
+bdodson@axiom.com,TRUE,2/21/2019,04/11/2019,Economy,69,DAL-ATL,104,Brendan Dodson
+fmcadams@axiom.com,FALSE,7/30/2019,11/19/2019,Economy,127,DAL-HOU,280,Filia McAdams
+pprost@axiom.com,FALSE,10/13/2019,12/23/2019,Economy,145,DAL-ELP,596,Paul Prost
+dphilippe@axiom.com,FALSE,10/23/2019,12/10/2019,Economy,146,DAL-AUS,210,David Philippe
+bderr@axiom.com,FALSE,01/04/2019,2/28/2019,Business,116,DAL-AUS,109,Brian Derr
+tsayre@axiom.com,TRUE,7/17/2019,11/11/2019,Business,165,DAL-AMA,765,Tony Sayre
+ccheatham@axiom.com,FALSE,06/02/2019,07/09/2019,Economy,83,DAL-HOU,169,Clay Cheatham
+rhaberlin@axiom.com,FALSE,2/25/2019,04/11/2019,Economy,83,DAL-AUS,639,Rob Haberlin
+abarnes@axiom.com,FALSE,10/23/2019,11/10/2019,Economy,118,DAL-HOU,11,Alan Barnes
+bmurry@axiom.com,FALSE,01/12/2019,1/31/2019,Economy,99,DAL-LGA,105,Brendan Murry
+dmiller@axiom.com,FALSE,7/15/2019,8/28/2019,Economy,159,DAL-ATL,234,Don Miller
+xxxx,FALSE,10/26/2019,11/27/2019,Economy,89,DAL-LAS,739,Thea Hendricks
+mpelletier@axiom.com,FALSE,10/06/2019,11/18/2019,Economy,62,DAL-AUS,544,Mike Pelletier
+jmitchum@axiom.com,FALSE,8/22/2019,9/15/2019,Economy,154,DAL-OKC,376,Jim Mitchum
+mjones@axiom.com,TRUE,1/23/2019,2/14/2019,Economy,137,DAL-ELP,515,Max Jones
+btyler@axiom.com,TRUE,10/03/2019,10/21/2019,Economy,126,DAL-HOU,93,Bill Tyler
+ahane@axiom.com,FALSE,8/20/2019,11/21/2019,Economy,63,DAL-AUS,8,Adrian Hane
+cglotzbach@axiom.com,TRUE,09/10/2019,11/21/2019,Economy,67,DAL-MDW,135,Catherine Glotzbach
+mhagelstein@axiom.com,FALSE,10/27/2019,11/06/2019,First Class,235,DAL-HOU,507,Matt Hagelstein
+jjackson@axiom.com,FALSE,10/20/2019,11/05/2019,Economy,67,DAL-PHX,362,Jennifer Jackson
+adominguez@axiom.com,FALSE,05/01/2019,5/14/2019,Economy,99,DAL-MDW,12,Alan Dominguez
+dflashing@axiom.com,FALSE,12/30/2018,1/23/2019,Economy,137,DAL-SEA,208,David Flashing
+azypern@axiom.com,FALSE,9/18/2019,12/05/2019,First Class,305,DAL-ATL,50,Annie Zypern
+dcampbell@axiom.com,FALSE,10/17/2019,12/23/2019,Economy,140,DAL-OKC,189,Dan Campbell
+ahwang@axiom.com,FALSE,08/02/2019,09/05/2019,Economy,137,DAL-SLC,14,Alan Hwang
+ahwang@axiom.com,FALSE,8/27/2019,09/05/2019,Economy,68,DAL-LGA,14,Alan Hwang
+rdowd@axiom.com,FALSE,08/11/2019,9/15/2019,Economy,144,DAL-MDW,638,Rob Dowd
+jhowell@axiom.com,FALSE,11/07/2019,12/04/2019,First Class,242,DAL-OKC,393,Jonathan Howell
+croper@axiom.com,FALSE,8/18/2019,9/29/2019,Economy,60,DAL-HOU,174,Corey Roper
+jfein@axiom.com,FALSE,01/12/2019,1/30/2019,Economy,103,DAL-PHX,356,Jay Fein
+creiten@axiom.com,FALSE,5/30/2019,07/01/2019,Economy,62,DAL-OKC,187,Cyra Reiten
+achong@axiom.com,TRUE,9/25/2019,12/02/2019,Economy,77,DAL-HOU,41,Ann Chong
+mzettner@axiom.com,FALSE,8/25/2019,10/11/2019,Economy,113,DAL-LGA,488,Maria Zettner
+creiten@axiom.com,FALSE,1/24/2019,3/22/2019,Economy,139,DAL-PHX,187,Cyra Reiten
+crozendal@axiom.com,FALSE,11/11/2019,12/09/2019,Economy,148,DAL-HOU,171,Clay Rozendal
+lleatherbury@axiom.com,TRUE,04/02/2019,6/19/2019,Economy,158,DAL-HOU,455,Lauren Leatherbury
+rapplegate@axiom.com,TRUE,10/04/2019,11/03/2019,Business,132,DAL-SLC,660,Russell Applegate
+ajacobs@axiom.com,FALSE,8/28/2019,9/20/2019,Business,122,DAL-HOU,52,Anthony Jacobs
+draglin@axiom.com,FALSE,11/01/2019,12/01/2019,Economy,144,DAL-AMA,195,Daniel Raglin
+dkotsonis@axiom.com,FALSE,10/17/2019,12/02/2019,Economy,155,DAL-ATL,188,Damala Kotsonis
+rbaird@axiom.com,FALSE,08/02/2019,09/01/2019,Business,176,DAL-LGA,652,Ross Baird
+hmarie@axiom.com,TRUE,10/13/2019,10/27/2019,First Class,210,DAL-HOU,323,Harry Marie
+fgastineau@axiom.com,FALSE,10/12/2019,11/16/2019,Economy,92,DAL-GRR,283,Frank Gastineau
+sbrown@axiom.com,FALSE,07/09/2019,9/15/2019,Economy,123,DAL-HOU,678,Sarah Brown
+rmurray@axiom.com,FALSE,3/30/2019,5/23/2019,Economy,79,DAL-ELP,649,Roland Murray
+lwillingham@axiom.com,TRUE,10/17/2019,12/31/2019,First Class,255,DAL-ELP,474,Liz Willingham
+ehernandez@axiom.com,FALSE,11/10/2019,12/19/2019,Economy,146,DAL-AUS,266,Erica Hernandez
+spistek@axiom.com,FALSE,8/15/2019,10/26/2019,Business,161,DAL-HOU,727,Susan Pistek
+mjones@axiom.com,FALSE,11/05/2019,12/18/2019,Business,114,DAL-OKC,515,Max Jones
+emurdock@axiom.com,TRUE,10/31/2019,11/12/2019,First Class,279,DAL-PHX,263,Eric Murdock
+gtran@axiom.com,FALSE,10/06/2019,10/23/2019,Economy,82,DAL-AMA,313,Greg Tran
+djones@axiom.com,TRUE,3/23/2019,06/02/2019,Economy,144,DAL-PHX,233,Don Jones
+pchand@axiom.com,FALSE,08/05/2019,9/27/2019,Economy,90,DAL-ATL,599,Pauline Chand
+sbern@axiom.com,TRUE,11/12/2019,12/10/2019,Economy,100,DAL-OKC,677,Sarah Bern
+tcarlisle@axiom.com,FALSE,06/05/2019,07/10/2019,Business,127,DAL-SEA,752,Toby Carlisle
+ejacobs@axiom.com,FALSE,2/24/2019,04/05/2019,Economy,142,DAL-HOU,247,Ed Jacobs
+pkriz@axiom.com,TRUE,10/27/2019,11/12/2019,Economy,126,DAL-HOU,604,Pete Kriz
+jkarlsson@axiom.com,FALSE,11/08/2019,11/28/2019,Economy,133,DAL-PHX,374,Jim Karlsson
+ldecherney@axiom.com,FALSE,5/21/2019,6/29/2019,Economy,156,DAL-AUS,466,Lisa DeCherney
+jcaffey@axiom.com,FALSE,10/27/2019,12/07/2019,Business,138,DAL-MDW,358,Jenna Caffey
+dpowers@axiom.com,TRUE,10/11/2019,11/04/2019,Economy,101,DAL-OKC,199,Darren Powers
+knguyen@axiom.com,FALSE,8/26/2019,10/01/2019,Business,131,DAL-SEA,429,Kean Nguyen
+kmeade@axiom.com,TRUE,11/18/2019,12/12/2019,Economy,159,DAL-SFO,414,Kalyca Meade
+jkrohn@axiom.com,FALSE,8/24/2019,11/06/2019,Economy,136,DAL-AUS,405,Juliana Krohn
+mengle@axiom.com,FALSE,8/25/2019,10/22/2019,Economy,152,DAL-OKC,514,Max Engle
+mgrace@axiom.com,FALSE,5/17/2019,6/13/2019,Economy,144,DAL-PHX,524,Michael Grace
+bshonely@axiom.com,FALSE,12/08/2019,12/25/2019,First Class,298,DAL-ATL,91,Bill Shonely
+lhughes@axiom.com,FALSE,10/30/2019,11/22/2019,Business,163,DAL-HOU,449,Larry Hughes
+dliebe@axiom.com,FALSE,07/05/2019,10/07/2019,Economy,136,DAL-AUS,239,Dorris liebe
+dwilson@axiom.com,FALSE,09/07/2019,12/05/2019,Economy,143,DAL-PHX,231,Dianna Wilson
+psewall@axiom.com,FALSE,9/17/2019,12/08/2019,Business,146,DAL-AUS,602,Penelope Sewall
+achung@axiom.com,FALSE,6/16/2019,09/07/2019,Business,108,DAL-AMA,44,Anna Chung
+jwaco@axiom.com,FALSE,09/08/2019,9/20/2019,Economy,81,DAL-PHX,347,Jane Waco
+rpayne@axiom.com,FALSE,09/08/2019,10/06/2019,Business,80,DAL-ATL,617,Rachel Payne
+hglantz@axiom.com,FALSE,10/10/2019,11/06/2019,Business,63,DAL-SEA,334,Hunter Glantz
+bstugart@axiom.com,FALSE,1/13/2019,02/04/2019,Economy,93,DAL-ATL,111,Brian Stugart
+hgreene@axiom.com,FALSE,01/04/2019,2/22/2019,Business,86,DAL-OKC,322,Harry Greene
+nstaavos@axiom.com,FALSE,2/26/2019,5/14/2019,Economy,97,DAL-LGA,575,Noel Staavos
+twillingham@axiom.com,FALSE,05/11/2019,6/27/2019,Economy,145,DAL-LGA,734,Tamara Willingham
+gbaptist@axiom.com,FALSE,11/25/2019,12/23/2019,Economy,113,DAL-ATL,304,Giulietta Baptist
+jgarza@axiom.com,FALSE,5/26/2019,6/26/2019,Economy,120,DAL-HOU,340,Jack Garza
+bpistole@axiom.com,FALSE,8/15/2019,09/07/2019,Economy,144,DAL-PHX,73,Bart Pistole
+ptakahito@axiom.com,FALSE,08/09/2019,12/02/2019,Economy,146,DAL-AUS,605,Pete Takahito
+habelman@axiom.com,FALSE,03/09/2019,5/18/2019,Economy,158,DAL-AUS,326,Helen Abelman
+bdodson@axiom.com,FALSE,3/21/2019,04/11/2019,Economy,44,DAL-SEA,104,Brendan Dodson
+dmartin@axiom.com,TRUE,11/24/2019,12/24/2019,Economy,80,DAL-ATL,200,Darrin Martin
+nzandusky@axiom.com,FALSE,8/13/2019,09/07/2019,Economy,128,DAL-ATL,570,Nick Zandusky
+cselesnick@axiom.com,FALSE,01/08/2019,04/02/2019,Business,140,DAL-AUS,149,Chris Selesnick
+abarnes@axiom.com,TRUE,9/19/2019,11/10/2019,Economy,98,DAL-PHX,11,Alan Barnes
+dsayre@axiom.com,FALSE,10/20/2019,12/12/2019,Economy,138,DAL-HOU,201,Darrin Sayre
+hlopez@axiom.com,FALSE,05/11/2019,09/08/2019,Economy,74,DAL-ATL,335,Hunter Lopez
+pprost@axiom.com,FALSE,7/23/2019,8/22/2019,Economy,71,DAL-MDW,596,Paul Prost
+cmelton@axiom.com,FALSE,5/26/2019,9/17/2019,Economy,156,DAL-PHX,145,Charlotte Melton
+ahane@axiom.com,FALSE,10/31/2019,11/21/2019,Economy,74,DAL-OKC,8,Adrian Hane
+hflentye@axiom.com,TRUE,06/07/2019,7/15/2019,Economy,105,DAL-HOU,332,Herbert Flentye
+cglotzbach@axiom.com,TRUE,11/01/2019,11/21/2019,Economy,71,DAL-HOU,135,Catherine Glotzbach
+aferguson@axiom.com,FALSE,11/20/2019,12/12/2019,Economy,89,DAL-OKC,58,Art Ferguson
+jjackson@axiom.com,FALSE,09/07/2019,11/05/2019,Business,107,DAL-ATL,362,Jennifer Jackson
+tprescott@axiom.com,FALSE,11/17/2019,12/04/2019,Business,106,DAL-AUS,760,Tom Prescott
+mludwig@axiom.com,TRUE,7/14/2019,8/30/2019,First Class,303,DAL-PHX,516,Max Ludwig
+ahwang@axiom.com,FALSE,08/01/2019,09/05/2019,Economy,154,DAL-PHX,14,Alan Hwang
+rdowd@axiom.com,FALSE,6/23/2019,9/15/2019,Economy,68,DAL-GRR,638,Rob Dowd
+carntzen@axiom.com,FALSE,12/02/2019,12/28/2019,Economy,142,DAL-CLE,184,Cynthia Arntzen
+cdelaney@axiom.com,FALSE,10/09/2019,11/12/2019,Economy,91,DAL-LGA,185,Cynthia Delaney
+mcollister@axiom.com,TRUE,7/13/2019,7/19/2019,Economy,99,DAL-HOU,505,Matt Collister
+tnorvell@axiom.com,FALSE,12/15/2018,1/13/2019,Economy,103,DAL-HOU,735,Tanja Norvell
+hjas@axiom.com,FALSE,07/08/2019,8/15/2019,Economy,123,DAL-AMA,324,Heather Jas
+sschmidt@axiom.com,FALSE,9/24/2019,11/25/2019,Economy,158,DAL-OKC,700,Shirley Schmidt
+pknutson@axiom.com,FALSE,11/28/2019,12/09/2019,Economy,123,DAL-LGA,593,Paul Knutson
+bpak@axiom.com,FALSE,10/06/2019,11/25/2019,First Class,227,DAL-ELP,77,Becky Pak
+tpippenger@axiom.com,FALSE,05/07/2019,6/19/2019,Economy,128,DAL-LAS,741,Theone Pippenger
+tdahlen@axiom.com,FALSE,6/24/2019,9/17/2019,Business,125,DAL-AUS,732,Tamara Dahlen
+rreed@axiom.com,TRUE,11/29/2018,01/10/2019,Economy,166,DAL-SLC,634,Rick Reed
+ajones@axiom.com,FALSE,5/21/2019,06/12/2019,Economy,156,DAL-MDW,64,Astrea Jones
+achong@axiom.com,FALSE,11/10/2019,12/02/2019,First Class,307,DAL-ATL,41,Ann Chong
+creiten@axiom.com,FALSE,01/01/2019,3/22/2019,Economy,144,DAL-LGA,187,Cyra Reiten
+crozendal@axiom.com,FALSE,10/13/2019,12/09/2019,First Class,217,DAL-SEA,171,Clay Rozendal
+knockton@axiom.com,FALSE,08/07/2019,09/03/2019,Economy,89,DAL-SLC,425,Katherine Nockton
+sshifley@axiom.com,FALSE,6/26/2019,7/14/2019,Economy,128,DAL-OKC,675,Saphhira Shifley
+rwilson@axiom.com,FALSE,09/10/2019,11/25/2019,Economy,153,DAL-PHX,635,Rick Wilson
+mschwartz@axiom.com,FALSE,03/03/2019,04/05/2019,Economy,100,DAL-HOU,517,Maxwell Schwartz
+ssunley@axiom.com,FALSE,10/16/2019,10/24/2019,Economy,102,DAL-AMA,705,Sonia Sunley
+rlucas@axiom.com,FALSE,5/15/2019,6/18/2019,First Class,305,DAL-HOU,640,Rob Lucas
+ajacobs@axiom.com,FALSE,09/07/2019,9/20/2019,Economy,73,DAL-HOU,52,Anthony Jacobs
+cmartinez@axiom.com,FALSE,9/20/2019,10/10/2019,First Class,285,DAL-OKC,158,Christopher Martinez
+emoren@axiom.com,FALSE,12/30/2018,2/19/2019,Economy,86,DAL-ATL,275,Eugene Moren
+mgastineau@axiom.com,FALSE,7/28/2019,10/14/2019,Business,159,DAL-LGA,546,Mitch Gastineau
+educich@axiom.com,FALSE,08/07/2019,8/20/2019,Economy,71,DAL-MDW,258,Emily Ducich
+dkendrick@axiom.com,FALSE,9/30/2019,11/09/2019,Economy,61,DAL-SEA,209,David Kendrick
+iliston@axiom.com,FALSE,12/12/2018,3/30/2019,Business,89,DAL-LAS,339,Ivan Liston
+emurdock@axiom.com,FALSE,10/11/2019,11/12/2019,Economy,79,DAL-LGA,263,Eric Murdock
+jmolinari@axiom.com,FALSE,10/10/2019,11/09/2019,Economy,96,DAL-AUS,350,Janet Molinari
+gthornton@axiom.com,TRUE,9/21/2019,10/08/2019,Economy,157,DAL-MDW,316,Guy Thornton
+jhirsh@axiom.com,FALSE,8/17/2019,09/12/2019,Economy,104,DAL-AMA,411,Justin Hirsh
+nfritzler@axiom.com,FALSE,8/17/2019,10/11/2019,Business,106,DAL-OKC,558,Natalie Fritzler
+gtran@axiom.com,FALSE,10/07/2019,10/23/2019,Economy,135,DAL-SLC,313,Greg Tran
+tdahlen@axiom.com,FALSE,01/10/2019,2/14/2019,Economy,91,DAL-LGA,732,Tamara Dahlen
+ehildebrand@axiom.com,FALSE,8/22/2019,11/15/2019,Economy,60,DAL-PHX,274,Eugene Hildebrand
+asmayling@axiom.com,FALSE,3/16/2019,4/20/2019,Economy,139,DAL-AUS,3,Aaron Smayling
+otoch@axiom.com,FALSE,9/23/2019,11/11/2019,Business,134,DAL-OKC,581,Olvera Toch
+jkarlsson@axiom.com,TRUE,8/31/2019,11/28/2019,Economy,80,DAL-ATL,374,Jim Karlsson
+rakin@axiom.com,FALSE,12/14/2019,12/27/2019,Economy,73,DAL-GRR,662,Ryan Akin
+awiediger@axiom.com,FALSE,7/27/2019,9/16/2019,Economy,123,DAL-AUS,62,Arthur Wiediger
+knguyen@axiom.com,FALSE,9/17/2019,10/01/2019,Economy,63,DAL-LAS,429,Kean Nguyen
+gzrebassa@axiom.com,FALSE,4/15/2019,06/04/2019,Economy,154,DAL-AUS,302,George Zrebassa
+kmeade@axiom.com,FALSE,11/19/2019,12/12/2019,Business,84,DAL-AUS,414,Kalyca Meade
+jkrohn@axiom.com,FALSE,10/05/2019,11/06/2019,Economy,60,DAL-LAS,405,Juliana Krohn
+mengle@axiom.com,FALSE,9/25/2019,10/22/2019,First Class,273,DAL-MDW,514,Max Engle
+bshonely@axiom.com,FALSE,11/14/2019,12/25/2019,Economy,153,DAL-ATL,91,Bill Shonely
+dliebe@axiom.com,FALSE,7/19/2019,10/07/2019,Economy,144,DAL-LAS,239,Dorris liebe
+rfjeld@axiom.com,TRUE,5/21/2019,6/15/2019,Economy,99,DAL-LGA,648,Roland Fjeld
+agayman@axiom.com,FALSE,5/18/2019,6/22/2019,Business,101,DAL-AUS,45,Anna Gayman
+psewall@axiom.com,FALSE,11/12/2019,12/08/2019,Economy,127,DAL-LGA,602,Penelope Sewall
+dordway,TRUE,11/22/2018,1/25/2019,Economy,105,DAL-MDW,228,Denny Ordway
+rpayne@axiom.com,FALSE,09/12/2019,10/06/2019,First Class,236,DAL-HOU,617,Rachel Payne
+bstugart@axiom.com,FALSE,01/04/2019,02/04/2019,Economy,82,DAL-OKC,111,Brian Stugart
+hgreene@axiom.com,TRUE,12/25/2018,2/22/2019,Economy,118,DAL-PHX,322,Harry Greene
+twillingham@axiom.com,FALSE,5/15/2019,6/27/2019,First Class,266,DAL-SEA,734,Tamara Willingham
+bpistole@axiom.com,TRUE,8/17/2019,09/07/2019,First Class,275,DAL-LGA,73,Bart Pistole
+ptakahito@axiom.com,FALSE,11/16/2019,12/02/2019,Business,110,DAL-AUS,605,Pete Takahito
+bdodson@axiom.com,TRUE,3/24/2019,04/11/2019,Economy,61,DAL-MDW,104,Brendan Dodson
+hpawlan@axiom.com,FALSE,10/07/2019,12/20/2019,Economy,133,DAL-HOU,320,Harold Pawlan
+ngilpin@axiom.com,FALSE,5/30/2019,07/11/2019,Economy,97,DAL-ATL,556,Nat Gilpin
+bderr@axiom.com,TRUE,1/13/2019,2/28/2019,Economy,106,DAL-GRR,109,Brian Derr
+dmartin@axiom.com,FALSE,12/11/2019,12/24/2019,Economy,122,DAL-LAS,200,Darrin Martin
+dlawera@axiom.com,FALSE,04/12/2019,06/08/2019,Business,176,DAL-AUS,190,Dan Lawera
+ebarchas@axiom.com,FALSE,07/02/2019,10/18/2019,Economy,87,DAL-ATL,273,Eugene Barchas
+abarnes@axiom.com,TRUE,9/23/2019,11/10/2019,Economy,132,DAL-LAS,11,Alan Barnes
+csheldon@axiom.com,FALSE,10/05/2019,10/13/2019,Economy,163,DAL-SLC,144,Charles Sheldon
+lhernandez@axiom.com,FALSE,11/01/2019,11/30/2019,Business,173,DAL-PHX,459,Lena Hernandez
+rskaria@axiom.com,FALSE,5/18/2019,6/16/2019,Economy,130,DAL-MDW,657,Roy Skaria
+dsayre@axiom.com,FALSE,10/25/2019,12/12/2019,Business,174,DAL-AUS,201,Darrin Sayre
+hlopez@axiom.com,FALSE,5/19/2019,09/08/2019,Economy,78,DAL-MDW,335,Hunter Lopez
+pprost@axiom.com,FALSE,6/15/2019,8/22/2019,Economy,98,DAL-HOU,596,Paul Prost
+cmelton@axiom.com,FALSE,6/20/2019,9/17/2019,Business,169,DAL-ATL,145,Charlotte Melton
+atate@axiom.com,FALSE,11/14/2019,11/29/2019,Business,136,DAL-ATL,29,Alyssa Tate
+lweiss@axiom.com,TRUE,11/07/2019,12/04/2019,Economy,155,DAL-ATL,480,Luke Weiss
+hflentye@axiom.com,FALSE,07/09/2019,7/15/2019,Economy,126,DAL-LGA,332,Herbert Flentye
+cglotzbach@axiom.com,FALSE,11/04/2019,11/21/2019,Economy,66,DAL-MDW,135,Catherine Glotzbach
+jjackson@axiom.com,FALSE,10/26/2019,11/05/2019,Economy,122,DAL-GRR,362,Jennifer Jackson
+aarmold@axiom.com,FALSE,7/15/2019,08/01/2019,Economy,116,DAL-GRR,25,Allen Armold
+tprescott@axiom.com,FALSE,10/27/2019,12/04/2019,Economy,130,DAL-AUS,760,Tom Prescott
+mludwig@axiom.com,FALSE,8/20/2019,8/30/2019,Economy,96,DAL-HOU,516,Max Ludwig
+sengle@axiom.com,FALSE,09/01/2019,10/21/2019,Economy,88,DAL-PHX,673,Sanjit Engle
+mkennedy@axiom.com,FALSE,10/08/2019,11/12/2019,Business,148,DAL-PHX,543,Mike Kennedy
+eludwig@axiom.com,FALSE,4/26/2019,8/18/2019,Economy,112,DAL-HOU,248,Ed Ludwig
+lcazamias@axiom.com,FALSE,10/19/2019,12/02/2019,Economy,95,DAL-AUS,461,Linda Cazamias
+ahwang@axiom.com,TRUE,7/30/2019,09/05/2019,Economy,123,DAL-SEA,14,Alan Hwang
+rdowd@axiom.com,FALSE,8/21/2019,9/15/2019,Economy,78,DAL-LGA,638,Rob Dowd
+carntzen@axiom.com,FALSE,12/03/2019,12/28/2019,Economy,77,DAL-AUS,184,Cynthia Arntzen
+jsundaresam@axiom.com,FALSE,9/27/2019,12/28/2019,Economy,131,DAL-MDW,395,Joni Sundaresam
+tchand@axiom.com,FALSE,8/27/2019,12/25/2019,Business,177,DAL-LGA,731,Tamara Chand
+cdelaney@axiom.com,TRUE,9/16/2019,11/12/2019,Economy,75,DAL-PHX,185,Cynthia Delaney
+mcollister@axiom.com,FALSE,5/16/2019,7/19/2019,Economy,91,DAL-SLC,505,Matt Collister
+hjas@axiom.com,FALSE,07/11/2019,8/15/2019,Business,80,DAL-OKC,324,Heather Jas
+mlaware@axiom.com,FALSE,07/04/2019,7/31/2019,Economy,61,DAL-HOU,493,Maris LaWare
+kthornton@axiom.com,FALSE,6/13/2019,08/02/2019,Economy,96,DAL-ELP,431,Kean Thornton
+bpak@axiom.com,TRUE,8/25/2019,11/25/2019,Business,130,DAL-GRR,77,Becky Pak
+tpippenger@axiom.com,FALSE,05/04/2019,6/19/2019,Business,98,DAL-AUS,741,Theone Pippenger
+dpoirier@axiom.com,FALSE,09/03/2019,12/25/2019,Economy,137,DAL-AUS,206,Dave Poirier
+ajones@axiom.com,FALSE,3/29/2019,06/12/2019,Economy,129,DAL-ATL,64,Astrea Jones
+nlomonaco@axiom.com,FALSE,4/19/2019,8/16/2019,Economy,91,DAL-SEA,553,Nancy Lomonaco
+sparks@axiom.com,TRUE,07/01/2019,7/22/2019,Economy,122,DAL-OKC,702,Sibella Parks
+creiten@axiom.com,FALSE,2/26/2019,3/22/2019,Economy,131,DAL-MDW,187,Cyra Reiten
+mo'rourke@axiom.com,TRUE,4/24/2019,05/08/2019,Economy,61,DAL-AUS,499,Mary O'Rourke
+knockton@axiom.com,TRUE,7/13/2019,09/03/2019,Economy,104,DAL-HOU,425,Katherine Nockton
+dweiss@axiom.com,FALSE,3/27/2019,05/06/2019,Economy,89,DAL-OKC,235,Don Weiss
+jgalang@axiom.com,FALSE,3/24/2019,4/20/2019,Economy,158,DAL-MDW,343,James Galang
+rwilson@axiom.com,FALSE,10/28/2019,11/25/2019,Economy,88,DAL-HOU,635,Rick Wilson
+jradford@axiom.com,FALSE,12/06/2019,12/25/2019,Economy,105,DAL-ATL,377,Jim Radford
+ssunley@axiom.com,FALSE,9/30/2019,10/24/2019,Economy,107,DAL-PHX,705,Sonia Sunley
+rlucas@axiom.com,TRUE,06/01/2019,6/18/2019,Economy,105,DAL-ATL,640,Rob Lucas
+ajacobs@axiom.com,FALSE,09/04/2019,9/20/2019,Economy,123,DAL-MDW,52,Anthony Jacobs
+ghansen@axiom.com,FALSE,07/01/2019,08/01/2019,Economy,141,DAL-ATL,293,Gary Hansen
+emoren@axiom.com,FALSE,1/26/2019,2/19/2019,Economy,119,DAL-LGA,275,Eugene Moren
+dwardle@axiom.com,FALSE,3/16/2019,4/17/2019,Economy,141,DAL-CLE,238,Dorothy Wardle
+mgastineau@axiom.com,FALSE,09/07/2019,10/14/2019,Economy,119,DAL-HOU,546,Mitch Gastineau
+dlawera@axiom.com,TRUE,8/24/2019,9/20/2019,Business,175,DAL-ATL,190,Dan Lawera
+rmesse@axiom.com,FALSE,08/12/2019,09/04/2019,Business,127,DAL-AUS,624,Raymond Messe
+iliston@axiom.com,FALSE,3/15/2019,3/30/2019,Economy,83,DAL-LAS,339,Ivan Liston
+emurdock@axiom.com,FALSE,10/23/2019,11/12/2019,Economy,71,DAL-AUS,263,Eric Murdock
+againer@axiom.com,TRUE,10/17/2019,12/20/2019,Economy,103,DAL-LAS,60,Arthur Gainer
+jmolinari@axiom.com,FALSE,10/16/2019,11/09/2019,Economy,151,DAL-HOU,350,Janet Molinari
+jhirsh@axiom.com,FALSE,08/12/2019,09/12/2019,Economy,87,DAL-LAS,411,Justin Hirsh
+nfritzler@axiom.com,FALSE,7/15/2019,10/11/2019,Business,123,DAL-GRR,558,Natalie Fritzler
+pwener@axiom.com,FALSE,1/31/2019,03/07/2019,Business,127,DAL-AUS,615,Pierre Wener
+tdahlen@axiom.com,FALSE,1/22/2019,2/14/2019,Economy,123,DAL-OKC,732,Tamara Dahlen
+npaige@axiom.com,FALSE,11/13/2019,12/26/2019,Economy,68,DAL-HOU,577,Nora Paige
+acrouse@axiom.com,FALSE,10/22/2019,12/21/2019,Economy,138,DAL-ATL,28,Alyssa Crouse
+bshonely@axiom.com,FALSE,7/30/2019,09/05/2019,Economy,112,DAL-OKC,91,Bill Shonely
+bvenier@axiom.com,FALSE,3/25/2019,4/19/2019,Economy,97,DAL-OKC,83,Benjamin Venier
+snguyen@axiom.com,FALSE,8/27/2019,9/17/2019,Economy,97,DAL-AUS,713,Steve Nguyen
+ckinney@axiom.com,TRUE,09/11/2019,11/15/2019,Business,80,DAL-AUS,183,Cyma Kinney
+cdarley@axiom.com,FALSE,10/09/2019,12/03/2019,Business,161,DAL-LGA,131,Carol Darley
+awiediger@axiom.com,FALSE,7/20/2019,9/16/2019,First Class,233,DAL-ATL,62,Arthur Wiediger
+knguyen@axiom.com,FALSE,09/03/2019,10/01/2019,First Class,239,DAL-ATL,429,Kean Nguyen
+gzrebassa@axiom.com,FALSE,4/26/2019,06/04/2019,First Class,285,DAL-MDW,302,George Zrebassa
+kmeade@axiom.com,FALSE,9/23/2019,12/12/2019,Economy,157,DAL-SLC,414,Kalyca Meade
+cmcguire@axiom.com,TRUE,5/28/2019,6/28/2019,Economy,147,DAL-ATL,140,Chad McGuire
+jkriz@axiom.com,FALSE,9/23/2019,11/25/2019,Economy,72,DAL-OKC,375,Jim Kriz
+ashonely@axiom.com,FALSE,12/26/2018,1/27/2019,Economy,81,DAL-SFO,16,Alan Shonely
+nhansen@axiom.com,FALSE,10/12/2019,10/26/2019,Economy,149,DAL-LAS,573,Nicole Hansen
+cschnelling@axiom.com,FALSE,6/30/2019,7/26/2019,First Class,211,DAL-MDW,165,Cindy Schnelling
+agayman@axiom.com,TRUE,06/08/2019,6/22/2019,Business,138,DAL-LGA,45,Anna Gayman
+dordway,FALSE,12/14/2018,1/25/2019,Economy,66,DAL-LGA,228,Denny Ordway
+jgalang@axiom.com,FALSE,5/21/2019,6/21/2019,Economy,110,DAL-LAS,343,James Galang
+fgastineau@axiom.com,FALSE,12/02/2018,01/06/2019,Economy,108,DAL-OKC,283,Frank Gastineau
+bpistole@axiom.com,FALSE,8/14/2019,09/07/2019,Economy,83,DAL-MDW,73,Bart Pistole
+jritter@axiom.com,FALSE,02/03/2019,04/07/2019,First Class,279,DAL-OKC,413,Justin Ritter
+phirasaki@axiom.com,FALSE,9/20/2019,10/08/2019,Economy,138,DAL-PHX,585,Patricia Hirasaki
+arawles@axiom.com,TRUE,8/13/2019,10/05/2019,Business,91,DAL-SEA,55,Anthony Rawles
+ngilpin@axiom.com,FALSE,4/16/2019,07/11/2019,Economy,98,DAL-GRR,556,Nat Gilpin
+dmiller@axiom.com,TRUE,09/01/2019,9/25/2019,Economy,72,DAL-GRR,234,Don Miller
+bderr@axiom.com,FALSE,1/27/2019,2/28/2019,Economy,143,DAL-PHX,109,Brian Derr
+dmartin@axiom.com,TRUE,10/14/2019,12/24/2019,Economy,159,DAL-GRR,200,Darrin Martin
+hredmond@axiom.com,FALSE,10/04/2019,10/24/2019,Economy,159,DAL-ATL,317,Hallie Redmond
+csheldon@axiom.com,FALSE,9/23/2019,10/13/2019,Economy,146,DAL-SLC,144,Charles Sheldon
+rskaria@axiom.com,FALSE,5/28/2019,6/16/2019,Economy,137,DAL-LAS,657,Roy Skaria
+hlopez@axiom.com,FALSE,8/17/2019,09/08/2019,Economy,112,DAL-ATL,335,Hunter Lopez
+pprost@axiom.com,FALSE,07/04/2019,8/22/2019,Economy,63,DAL-HOU,596,Paul Prost
+jmartin@axiom.com,FALSE,7/20/2019,09/05/2019,Economy,138,DAL-MDW,349,Janet Martin
+cmelton@axiom.com,FALSE,8/15/2019,9/17/2019,Economy,72,DAL-ELP,145,Charlotte Melton
+tmolinari@axiom.com,TRUE,12/16/2019,12/24/2019,First Class,229,DAL-MDW,764,Tony Molinari
+gguthrie@axiom.com,TRUE,11/09/2019,12/15/2019,Business,94,DAL-AUS,309,Greg Guthrie
+aarmold@axiom.com,FALSE,6/29/2019,08/01/2019,Business,124,DAL-PHX,25,Allen Armold
+sengle@axiom.com,FALSE,09/03/2019,10/21/2019,Economy,107,DAL-SLC,673,Sanjit Engle
+cleslie@axiom.com,FALSE,11/10/2018,1/17/2019,Economy,137,DAL-AUS,179,Craig Leslie
+eludwig@axiom.com,FALSE,7/22/2019,8/18/2019,Economy,139,DAL-LAS,248,Ed Ludwig
+lcazamias@axiom.com,TRUE,11/10/2019,12/02/2019,Economy,144,DAL-LGA,461,Linda Cazamias
+ahwang@axiom.com,FALSE,6/19/2019,09/05/2019,Economy,75,DAL-LAS,14,Alan Hwang
+rdowd@axiom.com,TRUE,7/13/2019,9/15/2019,Economy,123,DAL-LGA,638,Rob Dowd
+jsundaresam@axiom.com,TRUE,12/06/2019,12/28/2019,Economy,66,DAL-LAS,395,Joni Sundaresam
+tchand@axiom.com,FALSE,12/01/2019,12/25/2019,Economy,109,DAL-LAS,731,Tamara Chand
+hjas@axiom.com,FALSE,07/10/2019,8/15/2019,Economy,98,DAL-PHX,324,Heather Jas
+mlaware@axiom.com,FALSE,4/28/2019,7/31/2019,Economy,69,DAL-MDW,493,Maris LaWare
+kthornton@axiom.com,FALSE,07/03/2019,08/02/2019,Economy,88,DAL-PHX,431,Kean Thornton
+bpak@axiom.com,FALSE,11/14/2019,11/25/2019,Economy,117,DAL-PHX,77,Becky Pak
+dpoirier@axiom.com,FALSE,11/11/2019,12/25/2019,Economy,124,DAL-HOU,206,Dave Poirier
+jellison@axiom.com,TRUE,10/01/2019,11/02/2019,Economy,152,DAL-LAS,364,Jeremy Ellison
+ajones@axiom.com,FALSE,05/10/2019,06/12/2019,Economy,91,DAL-ATL,64,Astrea Jones
+nlomonaco@axiom.com,FALSE,7/15/2019,8/16/2019,Economy,84,DAL-ATL,553,Nancy Lomonaco
+creiten@axiom.com,TRUE,2/19/2019,3/22/2019,Business,109,DAL-SEA,187,Cyra Reiten
+mo'rourke@axiom.com,FALSE,4/22/2019,05/08/2019,First Class,237,DAL-MDW,499,Mary O'Rourke
+knockton@axiom.com,FALSE,6/27/2019,09/03/2019,Business,117,DAL-ATL,425,Katherine Nockton
+jgalang@axiom.com,FALSE,04/02/2019,4/20/2019,Economy,68,DAL-ELP,343,James Galang
+schand@axiom.com,FALSE,2/14/2019,4/29/2019,Economy,112,DAL-GRR,672,Sanjit Chand
+jradford@axiom.com,FALSE,12/05/2019,12/25/2019,Business,172,DAL-PHX,377,Jim Radford
+rbarroso@axiom.com,FALSE,10/16/2019,11/14/2019,First Class,261,DAL-LGA,642,Robert Barroso
+rlucas@axiom.com,FALSE,4/14/2019,6/18/2019,Economy,95,DAL-LAS,640,Rob Lucas
+ajacobs@axiom.com,FALSE,8/28/2019,9/20/2019,Business,93,DAL-SEA,52,Anthony Jacobs
+emoren@axiom.com,FALSE,1/31/2019,2/19/2019,Business,152,DAL-OKC,275,Eugene Moren
+dwardle@axiom.com,TRUE,02/08/2019,4/17/2019,Economy,142,DAL-LGA,238,Dorothy Wardle
+so'donnell@axiom.com,FALSE,02/04/2019,05/04/2019,Economy,81,DAL-OKC,688,Sean O'Donnell
+dlawera@axiom.com,FALSE,09/07/2019,9/20/2019,Economy,145,DAL-MDW,190,Dan Lawera
+aschoenberger@axiom.com,FALSE,01/10/2019,3/27/2019,Economy,90,DAL-MDW,15,Alan Schoenberger
+kcollister@axiom.com,TRUE,5/29/2019,6/19/2019,First Class,296,DAL-OKC,435,Kelly Collister
+cmolinari@axiom.com,FALSE,8/31/2019,9/15/2019,Economy,75,DAL-AUS,180,Craig Molinari
+lcurrie@axiom.com,FALSE,10/12/2019,11/24/2019,First Class,285,DAL-MDW,475,Logan Currie
+emurdock@axiom.com,FALSE,10/05/2019,11/12/2019,Economy,141,DAL-LAS,263,Eric Murdock
+againer@axiom.com,FALSE,11/25/2019,12/20/2019,Economy,121,DAL-LAS,60,Arthur Gainer
+jmolinari@axiom.com,FALSE,10/25/2019,11/09/2019,Economy,106,DAL-OKC,350,Janet Molinari
+areiter@axiom.com,FALSE,10/08/2019,12/21/2019,Economy,143,DAL-LAS,36,Andy Reiter
+nfritzler@axiom.com,TRUE,8/22/2019,10/11/2019,Economy,77,DAL-AUS,558,Natalie Fritzler
+jdaniels@axiom.com,FALSE,08/03/2019,09/05/2019,Economy,128,DAL-AUS,400,Joy Daniels
+tdahlen@axiom.com,FALSE,1/22/2019,2/14/2019,Economy,77,DAL-GRR,732,Tamara Dahlen
+cmitchell@axiom.com,FALSE,04/09/2019,4/30/2019,Business,95,DAL-SEA,176,Corinna Mitchell
+achung@axiom.com,FALSE,7/16/2019,9/29/2019,Economy,141,DAL-ELP,44,Anna Chung
+rbeeghly@axiom.com,FALSE,8/28/2019,10/07/2019,Business,157,DAL-PHX,637,Rob Beeghly
+lshagiari@axiom.com,FALSE,9/21/2019,10/30/2019,Economy,132,DAL-ATL,464,Lindsay Shagiari
+lshagiari@axiom.com,FALSE,8/31/2019,10/23/2019,First Class,249,DAL-AUS,464,Lindsay Shagiari
+jcaffey@axiom.com,FALSE,9/19/2019,12/07/2019,Economy,145,DAL-MDW,358,Jenna Caffey
+cdarley@axiom.com,FALSE,10/26/2019,12/03/2019,Economy,114,DAL-HOU,131,Carol Darley
+arussell@axiom.com,FALSE,9/14/2019,10/16/2019,Business,154,DAL-AUS,23,Alex Russell
+kmeade@axiom.com,FALSE,10/31/2019,12/12/2019,Economy,122,DAL-SEA,414,Kalyca Meade
+tbrockman@axiom.com,FALSE,10/12/2019,11/09/2019,Economy,159,DAL-AUS,749,Tim Brockman
+ddickinson@axiom.com,FALSE,10/03/2019,11/14/2019,Economy,70,DAL-HOU,237,Dorothy Dickinson
+ashonely@axiom.com,FALSE,01/02/2019,1/27/2019,Business,103,DAL-AUS,16,Alan Shonely
+gbell@axiom.com,FALSE,11/02/2019,11/28/2019,First Class,231,DAL-ELP,301,George Bell
+dwilson@axiom.com,FALSE,10/16/2019,12/05/2019,Business,164,DAL-PHX,231,Dianna Wilson
+mkennedy@axiom.com,FALSE,08/07/2019,8/22/2019,Economy,138,DAL-OKC,543,Mike Kennedy
+kbrennan@axiom.com,FALSE,11/25/2019,12/21/2019,Economy,113,DAL-HOU,439,Ken Brennan
+dordway,FALSE,10/31/2018,1/25/2019,Economy,108,DAL-HOU,228,Denny Ordway
+bstugart@axiom.com,FALSE,12/22/2018,02/04/2019,Economy,138,DAL-HOU,111,Brian Stugart
+ghansen@axiom.com,TRUE,04/04/2019,4/24/2019,Economy,80,DAL-OKC,293,Gary Hansen
+jgalang@axiom.com,TRUE,3/13/2019,6/21/2019,First Class,300,DAL-PHX,343,James Galang
+ncano@axiom.com,FALSE,06/04/2019,07/02/2019,Economy,90,DAL-MDW,560,Nathan Cano
+fhawley@axiom.com,FALSE,9/18/2019,10/30/2019,Economy,119,DAL-AUS,284,Frank Hawley
+bdonatelli@axiom.com,FALSE,09/10/2019,11/28/2019,Economy,136,DAL-OKC,88,Bill Donatelli
+rbuch,FALSE,07/06/2019,09/06/2019,Business,121,DAL-AUS,623,Raymond Buch
+bdodson@axiom.com,FALSE,03/04/2019,04/11/2019,Economy,124,DAL-SEA,104,Brendan Dodson
+arawles@axiom.com,FALSE,9/17/2019,10/05/2019,Economy,62,DAL-TUL,55,Anthony Rawles
+dmiller@axiom.com,FALSE,8/28/2019,9/25/2019,Economy,60,DAL-HOU,234,Don Miller
+pprost@axiom.com,FALSE,11/02/2019,12/23/2019,First Class,300,DAL-HOU,596,Paul Prost
+abergman@axiom.com,FALSE,4/24/2019,07/04/2019,First Class,246,DAL-HOU,1,Aaron Bergman
+dphilippe@axiom.com,FALSE,10/26/2019,12/10/2019,Economy,148,DAL-MDW,210,David Philippe
+bderr@axiom.com,FALSE,1/27/2019,2/28/2019,Economy,155,DAL-AUS,109,Brian Derr
+jhuston@axiom.com,FALSE,9/23/2019,10/27/2019,Business,121,DAL-PHX,387,John Huston
+rhaberlin@axiom.com,FALSE,3/29/2019,04/11/2019,First Class,218,DAL-HOU,639,Rob Haberlin
+hredmond@axiom.com,TRUE,9/23/2019,10/24/2019,Business,175,DAL-PHX,317,Hallie Redmond
+jkriz@axiom.com,FALSE,11/05/2019,11/20/2019,First Class,244,DAL-PHX,407,Julie Kriz
+xxxx,FALSE,10/24/2019,11/27/2019,Business,154,DAL-AUS,739,Thea Hendricks
+mpelletier@axiom.com,FALSE,8/30/2019,11/18/2019,Business,116,DAL-AUS,544,Mike Pelletier
+lworkman@axiom.com,FALSE,9/28/2019,12/10/2019,Economy,146,DAL-HOU,454,Laurel Workman
+rcrowe@axiom.com,FALSE,5/29/2019,6/30/2019,Business,123,DAL-SLC,663,Ryan Crowe
+moakman@axiom.com,FALSE,10/02/2019,10/17/2019,Economy,157,DAL-OKC,529,Michael Oakman
+mhagelstein@axiom.com,TRUE,10/21/2019,11/06/2019,Economy,93,DAL-HOU,507,Matt Hagelstein
+pmcvee@axiom.com,FALSE,8/17/2019,10/26/2019,Economy,138,DAL-PHX,608,Peter McVee
+jjackson@axiom.com,FALSE,08/06/2019,11/05/2019,First Class,254,DAL-SEA,362,Jennifer Jackson
+ahwang@axiom.com,TRUE,8/24/2019,09/05/2019,Economy,77,DAL-OKC,14,Alan Hwang
+ahwang@axiom.com,FALSE,7/30/2019,09/05/2019,Economy,96,DAL-LGA,14,Alan Hwang
+rdowd@axiom.com,TRUE,7/14/2019,9/15/2019,Economy,84,DAL-AUS,638,Rob Dowd
+jhowell@axiom.com,FALSE,11/12/2019,12/04/2019,Economy,145,DAL-GRR,393,Jonathan Howell
+tchand@axiom.com,FALSE,11/23/2019,12/25/2019,Business,169,DAL-SLC,731,Tamara Chand
+pbreyer@axiom.com,FALSE,8/25/2019,09/12/2019,Economy,142,DAL-LGA,613,Phillip Breyer
+jfein@axiom.com,TRUE,12/24/2018,1/30/2019,Economy,98,DAL-LGA,356,Jay Fein
+jellison@axiom.com,TRUE,10/08/2019,11/02/2019,Economy,95,DAL-ELP,364,Jeremy Ellison
+ebailliet@axiom.com,FALSE,11/30/2019,12/26/2019,Business,136,DAL-OKC,277,Evan Bailliet
+mgastineau@axiom.com,FALSE,09/05/2019,9/22/2019,First Class,211,DAL-AUS,511,Maureen Gastineau
+knockton@axiom.com,FALSE,09/08/2019,9/26/2019,Economy,65,DAL-AMA,425,Katherine Nockton
+achong@axiom.com,FALSE,10/06/2019,12/02/2019,First Class,217,DAL-HOU,41,Ann Chong
+rbarroso@axiom.com,FALSE,08/11/2019,9/14/2019,Economy,73,DAL-MDW,642,Robert Barroso
+mabelman@axiom.com,FALSE,9/22/2019,10/17/2019,Economy,147,DAL-HOU,503,Matt Abelman
+creiten@axiom.com,FALSE,1/17/2019,3/22/2019,Business,151,DAL-SEA,187,Cyra Reiten
+creiten@axiom.com,TRUE,02/08/2019,3/22/2019,Economy,147,DAL-MDW,187,Cyra Reiten
+mo'rourke@axiom.com,FALSE,4/24/2019,05/08/2019,Economy,135,DAL-MDW,499,Mary O'Rourke
+gzandusky@axiom.com,FALSE,08/01/2019,09/07/2019,Economy,73,DAL-SLC,297,Gary Zandusky
+lleatherbury@axiom.com,FALSE,03/02/2019,6/19/2019,First Class,277,DAL-HOU,455,Lauren Leatherbury
+abarton@axiom.com,FALSE,10/26/2019,11/23/2019,Economy,105,DAL-HOU,7,Adrian Barton
+rapplegate@axiom.com,FALSE,9/13/2019,11/03/2019,Economy,147,DAL-HOU,660,Russell Applegate
+jradford@axiom.com,FALSE,12/20/2019,12/25/2019,Economy,109,DAL-SEA,377,Jim Radford
+rbarroso@axiom.com,TRUE,10/10/2019,11/14/2019,Economy,96,DAL-HOU,642,Robert Barroso
+ajacobs@axiom.com,FALSE,7/25/2019,9/20/2019,Economy,89,DAL-HOU,52,Anthony Jacobs
+draglin@axiom.com,FALSE,11/09/2019,12/01/2019,Economy,126,DAL-PHX,195,Daniel Raglin
+svisinsky@axiom.com,FALSE,10/02/2019,12/03/2019,Economy,104,DAL-AUS,718,Stewart Visinsky
+gmaxwell@axiom.com,FALSE,09/10/2019,11/27/2019,Economy,83,DAL-ATL,312,Greg Maxwell
+hmarie@axiom.com,FALSE,8/22/2019,10/27/2019,Business,157,DAL-AUS,323,Harry Marie
+tturnell@axiom.com,TRUE,10/30/2019,11/20/2019,Economy,141,DAL-ATL,762,Tonja Turnell
+rmurray@axiom.com,FALSE,4/16/2019,5/23/2019,Economy,128,DAL-PHX,649,Roland Murray
+ehernandez@axiom.com,FALSE,11/13/2019,12/19/2019,First Class,253,DAL-ATL,266,Erica Hernandez
+bodegard@axiom.com,FALSE,5/29/2019,7/14/2019,Economy,148,DAL-OKC,95,Bobby Odegard
+emurdock@axiom.com,FALSE,10/18/2019,11/12/2019,Economy,116,DAL-PHX,263,Eric Murdock
+againer@axiom.com,FALSE,12/08/2019,12/20/2019,Economy,108,DAL-OKC,60,Arthur Gainer
+ahäberlin@axiom.com,FALSE,9/21/2019,12/20/2019,Economy,72,DAL-HOU,46,Anna Häberlin
+pober@axiom.com,FALSE,10/11/2019,12/23/2019,Economy,146,DAL-HOU,612,Phillina Ober
+cdaly@axiom.com,FALSE,10/06/2019,11/10/2019,First Class,274,DAL-AUS,127,Carlos Daly
+djones@axiom.com,FALSE,4/20/2019,06/02/2019,First Class,251,DAL-HOU,233,Don Jones
+bodegard@axiom.com,FALSE,08/05/2019,10/06/2019,Economy,72,DAL-AUS,95,Bobby Odegard
+pchand@axiom.com,FALSE,8/27/2019,9/27/2019,Business,95,DAL-LGA,599,Pauline Chand
+scraven@axiom.com,TRUE,5/16/2019,09/10/2019,Business,164,DAL-AUS,667,Sam Craven
+tpippenger@axiom.com,FALSE,09/05/2019,11/12/2019,Economy,84,DAL-HOU,741,Theone Pippenger
+jcaffey@axiom.com,TRUE,9/29/2019,12/07/2019,Economy,121,DAL-HOU,358,Jenna Caffey
+csayre@axiom.com,FALSE,4/25/2019,6/19/2019,Economy,76,DAL-ATL,122,Cari Sayre
+arussell@axiom.com,FALSE,8/26/2019,10/16/2019,Business,144,DAL-SEA,23,Alex Russell
+mkennedy@axiom.com,FALSE,11/27/2019,12/15/2019,Economy,138,DAL-LGA,526,Michael Kennedy
+rarnett@axiom.com,FALSE,12/04/2019,12/29/2019,Economy,140,DAL-GRR,618,Ralph Arnett
+kmeade@axiom.com,FALSE,11/06/2019,12/12/2019,Business,89,DAL-ELP,414,Kalyca Meade
+swilliamson@axiom.com,FALSE,2/14/2019,03/08/2019,Economy,130,DAL-AMA,684,Scott Williamson
+mgrace@axiom.com,FALSE,3/29/2019,6/13/2019,Economy,107,DAL-SEA,524,Michael Grace
+lcacioppo@axiom.com,FALSE,9/15/2019,11/27/2019,First Class,241,DAL-LGA,457,Lena Cacioppo
+agarverick@axiom.com,TRUE,09/08/2019,11/22/2019,Economy,88,DAL-HOU,51,Anthony Garverick
+dliebe@axiom.com,FALSE,8/27/2019,10/07/2019,Economy,86,DAL-AUS,239,Dorris liebe
+dwilson@axiom.com,FALSE,11/14/2019,12/05/2019,Economy,71,DAL-GRR,231,Dianna Wilson
+mkennedy@axiom.com,TRUE,5/16/2019,8/22/2019,Economy,126,DAL-PHX,543,Mike Kennedy
+bfranzösisch@axiom.com,TRUE,7/29/2019,9/26/2019,Economy,141,DAL-LGA,68,Barry Französisch
+gashbrook@axiom.com,FALSE,09/11/2019,11/04/2019,Economy,94,DAL-GRR,300,George Ashbrook
+dordway,FALSE,01/08/2019,1/25/2019,Economy,112,DAL-HOU,228,Denny Ordway
+rpayne@axiom.com,FALSE,09/10/2019,10/06/2019,Economy,155,DAL-HOU,617,Rachel Payne
+cschild@axiom.com,FALSE,6/27/2019,7/27/2019,First Class,252,DAL-HOU,159,Christopher Schild
+bstugart@axiom.com,FALSE,01/10/2019,02/04/2019,Economy,132,DAL-HOU,111,Brian Stugart
+hengle@axiom.com,FALSE,11/21/2019,12/02/2019,Economy,159,DAL-LAS,319,Harold Engle
+ptakahito@axiom.com,TRUE,10/23/2019,12/02/2019,Economy,146,DAL-OKC,605,Pete Takahito
+habelman@axiom.com,FALSE,3/19/2019,5/18/2019,Economy,94,DAL-PHX,326,Helen Abelman
+bdodson@axiom.com,FALSE,2/24/2019,04/11/2019,Economy,111,DAL-AUS,104,Brendan Dodson
+jklamczynski@axiom.com,TRUE,4/16/2019,5/25/2019,Economy,115,DAL-OKC,354,Jason Klamczynski
+nradford@axiom.com,FALSE,06/05/2019,6/21/2019,Business,103,DAL-OKC,569,Nick Radford
+pprost@axiom.com,FALSE,12/05/2019,12/23/2019,Economy,98,DAL-LGA,596,Paul Prost
+dphilippe@axiom.com,TRUE,9/24/2019,12/10/2019,Economy,125,DAL-MDW,210,David Philippe
+klonsdale@axiom.com,FALSE,7/22/2019,08/04/2019,Economy,106,DAL-PHX,442,Ken Lonsdale
+tsayre@axiom.com,FALSE,11/01/2019,11/11/2019,Economy,109,DAL-OKC,765,Tony Sayre
+dhuffman@axiom.com,FALSE,7/20/2019,10/10/2019,Economy,92,DAL-AUS,244,Duane Huffman
+cselesnick@axiom.com,FALSE,1/27/2019,04/02/2019,Economy,98,DAL-OKC,149,Chris Selesnick
+abarnes@axiom.com,TRUE,10/09/2019,11/10/2019,Economy,110,DAL-TUL,11,Alan Barnes
+bmurry@axiom.com,FALSE,11/16/2018,1/31/2019,Economy,104,DAL-OKC,105,Brendan Murry
+dmiller@axiom.com,FALSE,7/16/2019,8/28/2019,Economy,141,DAL-AUS,234,Don Miller
+jblumstein@axiom.com,FALSE,10/12/2019,11/02/2019,First Class,225,DAL-OKC,394,Joni Blumstein
+mpelletier@axiom.com,FALSE,10/07/2019,11/18/2019,Economy,63,DAL-MDW,544,Mike Pelletier
+mvittorini@axiom.com,FALSE,4/18/2019,6/30/2019,Economy,115,DAL-ATL,545,Mike Vittorini
+tprescott@axiom.com,FALSE,01/05/2019,2/13/2019,Business,145,DAL-HOU,760,Tom Prescott
+ahane@axiom.com,TRUE,10/29/2019,11/21/2019,Economy,130,DAL-CLE,8,Adrian Hane
+hflentye@axiom.com,FALSE,4/24/2019,7/15/2019,Business,178,DAL-OKC,332,Herbert Flentye
+ajohnson@axiom.com,FALSE,4/18/2019,6/25/2019,Economy,91,DAL-OKC,53,Anthony Johnson
+cglotzbach@axiom.com,FALSE,10/31/2019,11/21/2019,Economy,142,DAL-LGA,135,Catherine Glotzbach
+pbrown@axiom.com,FALSE,06/05/2019,07/07/2019,Economy,85,DAL-PHX,609,Philip Brown
+jjackson@axiom.com,FALSE,10/12/2019,11/05/2019,Economy,132,DAL-AUS,362,Jennifer Jackson
+adominguez@axiom.com,FALSE,02/02/2019,5/14/2019,Economy,95,DAL-HOU,12,Alan Dominguez
+beason@axiom.com,FALSE,08/02/2019,11/25/2019,Economy,119,DAL-SLC,97,Brad Eason
+mlee@axiom.com,FALSE,11/17/2019,12/07/2019,Economy,68,DAL-AUS,550,Muhammed Lee
+ahwang@axiom.com,FALSE,7/24/2019,09/05/2019,Economy,81,DAL-GRR,14,Alan Hwang
+ahwang@axiom.com,FALSE,8/13/2019,09/05/2019,Economy,111,DAL-AUS,14,Alan Hwang
+rdowd@axiom.com,TRUE,8/22/2019,9/15/2019,Economy,153,DAL-GRR,638,Rob Dowd
+croper@axiom.com,FALSE,8/28/2019,9/29/2019,Economy,146,DAL-LAS,174,Corey Roper
+jblumstein@axiom.com,TRUE,9/18/2019,11/22/2019,First Class,222,DAL-ATL,394,Joni Blumstein
+klampkin@axiom.com,FALSE,11/12/2019,11/24/2019,Business,99,DAL-LAS,436,Kelly Lampkin
+gphonely@axiom.com,FALSE,5/18/2019,08/03/2019,Economy,122,DAL-HOU,315,Guy Phonely
+jfein@axiom.com,FALSE,6/26/2019,7/14/2019,Economy,84,DAL-MDW,356,Jay Fein
+bpak@axiom.com,FALSE,10/19/2019,11/25/2019,Economy,103,DAL-MDW,77,Becky Pak
+sdaniels@axiom.com,TRUE,07/10/2019,11/09/2019,Economy,133,DAL-LGA,698,Shirley Daniels
+cludwig@axiom.com,TRUE,11/22/2019,12/10/2019,Economy,108,DAL-AMA,125,Carl Ludwig
+achong@axiom.com,TRUE,09/10/2019,12/02/2019,Business,82,DAL-AUS,41,Ann Chong
+tchand@axiom.com,FALSE,1/18/2019,1/30/2019,Economy,70,DAL-ELP,731,Tamara Chand
+mzettner@axiom.com,FALSE,10/02/2019,10/11/2019,Economy,91,DAL-PHX,488,Maria Zettner
+lpelletier@axiom.com,FALSE,8/31/2019,11/13/2019,Business,116,DAL-MDW,471,Liz Pelletier
+jkimmel@axiom.com,FALSE,05/12/2019,06/01/2019,First Class,237,DAL-PHX,357,Jay Kimmel
+creiten@axiom.com,FALSE,03/08/2019,3/22/2019,Economy,151,DAL-HOU,187,Cyra Reiten
+crozendal@axiom.com,TRUE,10/22/2019,12/09/2019,Economy,105,DAL-HOU,171,Clay Rozendal
+aallen@axiom.com,FALSE,10/22/2019,12/31/2019,Economy,151,DAL-MDW,32,Andrew Allen
+dblanton@axiom.com,FALSE,11/01/2019,12/27/2019,Economy,122,DAL-PHX,226,Denny Blanton
+ssunley@axiom.com,FALSE,8/13/2019,10/24/2019,Economy,60,DAL-SFO,705,Sonia Sunley
+ajacobs@axiom.com,FALSE,8/27/2019,9/20/2019,Economy,70,DAL-AUS,52,Anthony Jacobs
+dkotsonis@axiom.com,FALSE,10/27/2019,12/02/2019,Economy,91,DAL-GRR,188,Damala Kotsonis
+schand@axiom.com,TRUE,12/01/2019,12/24/2019,First Class,234,DAL-HOU,672,Sanjit Chand
+eminnotte@axiom.com,FALSE,6/19/2019,08/11/2019,Economy,112,DAL-LGA,279,Evan Minnotte
+bmoss@axiom.com,FALSE,8/31/2019,12/12/2019,First Class,306,DAL-OKC,110,Brian Moss
+fgastineau@axiom.com,FALSE,9/16/2019,11/16/2019,Economy,66,DAL-AUS,283,Frank Gastineau
+rmurray@axiom.com,FALSE,3/20/2019,5/23/2019,Business,90,DAL-AUS,649,Roland Murray
+ehernandez@axiom.com,FALSE,11/19/2019,12/19/2019,Economy,147,DAL-AUS,266,Erica Hernandez
+dkendrick@axiom.com,FALSE,10/01/2019,11/09/2019,Economy,68,DAL-AUS,209,David Kendrick
+xxx,FALSE,10/13/2019,11/24/2019,Economy,101,DAL-OKC,479,Luke Schmidt
+mjones@axiom.com,TRUE,09/11/2019,12/18/2019,Economy,123,DAL-HOU,515,Max Jones
+lwilliams@axiom.com,FALSE,6/15/2019,07/04/2019,Business,101,DAL-LAS,465,Lindsay Williams
+hzydlo@axiom.com,FALSE,11/06/2019,11/23/2019,Economy,76,DAL-ELP,329,Henia Zydlo
+athurman@axiom.com,FALSE,9/26/2019,10/07/2019,Economy,156,DAL-SLC,49,Annie Thurman
+scalhoun@axiom.com,TRUE,2/16/2019,04/04/2019,Business,127,DAL-SLC,719,Stuart Calhoun
+gtran@axiom.com,FALSE,10/05/2019,10/23/2019,Economy,123,DAL-SEA,313,Greg Tran
+csachs@axiom.com,TRUE,01/08/2019,02/12/2019,Economy,104,DAL-LAS,163,Chuck Sachs
+sbern@axiom.com,FALSE,11/19/2019,12/10/2019,Business,168,DAL-OKC,677,Sarah Bern
+sann@axiom.com,FALSE,10/19/2019,11/24/2019,Economy,94,DAL-OKC,721,Sue Ann Reed
+pstevenson@axiom.com,FALSE,09/12/2019,10/30/2019,Economy,114,DAL-MDW,597,Paul Stevenson
+azypern@axiom.com,FALSE,7/15/2019,9/18/2019,Business,135,DAL-LGA,50,Annie Zypern
+lolson@axiom.com,FALSE,08/04/2019,09/09/2019,Economy,95,DAL-HOU,477,Lori Olson
+jfarry@axiom.com,FALSE,05/12/2019,07/03/2019,Business,128,DAL-PHX,365,Jeremy Farry
+ehenry@axiom.com,FALSE,9/22/2019,11/30/2019,First Class,282,DAL-HOU,278,Evan Henry
+nlomonaco@axiom.com,FALSE,03/03/2019,6/30/2019,Economy,141,DAL-LGA,553,Nancy Lomonaco
+ajones@axiom.com,TRUE,3/26/2019,5/21/2019,Business,112,DAL-LAS,64,Astrea Jones
+creiter@axiom.com,FALSE,04/07/2019,05/07/2019,Economy,156,DAL-MDW,181,Craig Reiter
+csievert@axiom.com,FALSE,3/22/2019,5/17/2019,Business,122,DAL-AUS,141,Chad Sievert
+ghansen@axiom.com,FALSE,09/04/2019,10/14/2019,Business,81,DAL-AUS,310,Greg Hansen
+rphan@axiom.com,FALSE,10/03/2019,12/04/2019,Economy,120,DAL-ELP,656,Roy Phan
+tsissman@axiom.com,TRUE,5/15/2019,5/23/2019,Economy,76,DAL-OKC,738,Thais Sissman
+cmeador@axiom.com,FALSE,10/04/2019,11/24/2019,Economy,132,DAL-MDW,128,Carlos Meador
+sbraxton@axiom.com,TRUE,9/23/2019,10/25/2019,Economy,80,DAL-GRR,685,Sean Braxton
+po'donnell@axiom.com,FALSE,08/08/2019,10/08/2019,Economy,92,DAL-MDW,590,Patrick O'Donnell
+tmanning@axiom.com,FALSE,01/01/2019,1/15/2019,Economy,122,DAL-MDW,733,Tamara Manning
+sknutson@axiom.com,FALSE,01/09/2019,5/22/2019,Business,86,DAL-HOU,665,Sally Knutson
+lfoster@axiom.com,FALSE,7/27/2019,09/02/2019,First Class,264,DAL-ATL,478,Luke Foster
+tpippenger@axiom.com,FALSE,9/16/2019,10/16/2019,Economy,119,DAL-HOU,741,Theone Pippenger
+pcoakley,FALSE,7/27/2019,8/26/2019,Economy,138,DAL-AUS,582,Pamela Coakley
+mhuthwaite@axiom.com,TRUE,04/11/2019,5/22/2019,First Class,260,DAL-ATL,534,Michelle Huthwaite
+cjumper@axiom.com,FALSE,9/30/2019,11/22/2019,Economy,123,DAL-AUS,133,Caroline Jumper
+ckastensmidt@axiom.com,FALSE,01/10/2019,3/27/2019,Economy,99,DAL-LAS,146,Chloris Kastensmidt
+dordway,TRUE,08/11/2019,10/01/2019,Economy,108,DAL-OKC,228,Denny Ordway
+jairdo@axiom.com,FALSE,11/03/2019,12/01/2019,Economy,122,DAL-ELP,397,Joseph Airdo
+bgonzalez@axiom.com,FALSE,8/31/2019,10/22/2019,Economy,108,DAL-MDW,69,Barry Gonzalez
+tashbrook@axiom.com,FALSE,05/10/2019,5/29/2019,Economy,117,DAL-SLC,758,Tom Ashbrook
+lmackendrick@axiom.com,FALSE,9/16/2019,12/10/2019,Business,133,DAL-AUS,470,Liz MacKendrick
+mwebber@axiom.com,FALSE,10/08/2019,11/04/2019,Economy,157,DAL-OKC,547,Mitch Webber
+sjordon@axiom.com,TRUE,08/04/2019,9/14/2019,Economy,138,DAL-CLE,680,Sarah Jordon
+ccrestani@axiom.com,FALSE,7/16/2019,09/07/2019,Economy,157,DAL-ATL,142,Charles Crestani
+igibson@axiom.com,FALSE,02/02/2019,03/05/2019,Economy,117,DAL-HOU,338,Ivan Gibson
+rmurray@axiom.com,TRUE,1/27/2019,02/08/2019,Economy,132,DAL-HOU,649,Roland Murray
+mjones@axiom.com,FALSE,9/23/2019,10/10/2019,Economy,111,DAL-AUS,515,Max Jones
+kferguson@axiom.com,FALSE,4/29/2019,5/27/2019,Economy,84,DAL-MDW,418,Karen Ferguson
+aallen@axiom.com,FALSE,03/03/2019,3/15/2019,First Class,260,DAL-ATL,32,Andrew Allen
+ashonely@axiom.com,FALSE,9/21/2019,12/06/2019,Business,132,DAL-AUS,16,Alan Shonely
+ajacobs@axiom.com,FALSE,11/27/2019,12/11/2019,Economy,79,DAL-GRR,52,Anthony Jacobs
+kbavinger@axiom.com,FALSE,02/07/2019,3/14/2019,Economy,75,DAL-GRR,426,Katrina Bavinger
+kseio@axiom.com,FALSE,10/11/2019,11/05/2019,First Class,216,DAL-ELP,419,Karen Seio
+cphan@axiom.com,FALSE,7/27/2019,10/03/2019,Business,111,DAL-TUL,155,Christine Phan
+ghwang@axiom.com,FALSE,10/12/2019,12/20/2019,Economy,117,DAL-LGA,294,Gary Hwang
+dkane@axiom.com,FALSE,09/09/2019,10/11/2019,Economy,60,DAL-PHX,224,Dennis Kane
+kheidel@axiom.com,TRUE,11/14/2019,12/09/2019,Economy,123,DAL-AUS,441,Ken Heidel
+iliston@axiom.com,FALSE,11/07/2019,11/22/2019,Economy,152,DAL-AMA,339,Ivan Liston
+mbrown@axiom.com,FALSE,9/28/2019,12/05/2019,Economy,68,DAL-LGA,538,Mick Brown
+hgreene@axiom.com,FALSE,6/26/2019,09/05/2019,Economy,136,DAL-ATL,322,Harry Greene
+sroach@axiom.com,FALSE,11/20/2019,12/15/2019,Economy,140,DAL-HOU,694,Sharelle Roach
+jsundaresam@axiom.com,FALSE,05/01/2019,08/12/2019,Economy,112,DAL-ATL,395,Joni Sundaresam
+spistek@axiom.com,FALSE,08/06/2019,8/27/2019,Economy,144,DAL-AUS,727,Susan Pistek
+ajones@axiom.com,FALSE,4/15/2019,5/21/2019,Business,99,DAL-LGA,64,Astrea Jones
+carntzen@axiom.com,TRUE,11/08/2019,12/11/2019,First Class,213,DAL-ATL,184,Cynthia Arntzen
+rwilson@axiom.com,TRUE,8/31/2019,10/16/2019,Economy,116,DAL-SLC,635,Rick Wilson
+fmcadams@axiom.com,TRUE,11/08/2019,11/26/2019,Business,137,DAL-ATL,280,Filia McAdams
+bwatters@axiom.com,FALSE,6/28/2019,9/26/2019,Business,166,DAL-AUS,74,Bart Watters
+jgalang@axiom.com,FALSE,8/26/2019,9/23/2019,Economy,61,DAL-LGA,343,James Galang
+aferguson@axiom.com,FALSE,6/14/2019,09/08/2019,First Class,231,DAL-SEA,58,Art Ferguson
+ebarchas@axiom.com,FALSE,8/31/2019,10/07/2019,First Class,256,DAL-ELP,273,Eugene Barchas
+jelijah@axiom.com,FALSE,9/30/2019,10/27/2019,Economy,132,DAL-PHX,380,Joe Elijah
+dvan@axiom.com,FALSE,10/24/2019,11/20/2019,Business,82,DAL-OKC,202,Darrin Van Huff
+lthompson@axiom.com,FALSE,06/11/2019,6/29/2019,Economy,118,DAL-AUS,473,Liz Thompson
+plucas@axiom.com,FALSE,10/26/2019,12/04/2019,Economy,132,DAL-MDW,594,Paul Lucas
+pvan@axiom.com,FALSE,8/27/2019,10/28/2019,Economy,104,DAL-LGA,598,Paul Van Hugh
+cmagee@axiom.com,FALSE,09/10/2019,10/12/2019,Business,109,DAL-LGA,162,Chuck Magee
+schapman@axiom.com,FALSE,3/23/2019,6/13/2019,Economy,154,DAL-AUS,712,Steve Chapman
+lelliston@axiom.com,FALSE,06/06/2019,07/09/2019,Economy,61,DAL-HOU,453,Laurel Elliston
+awitt@axiom.com,FALSE,10/24/2019,12/13/2019,Economy,159,DAL-GRR,56,Anthony Witt
+pcoakley,FALSE,8/17/2019,8/26/2019,Economy,126,DAL-AUS,582,Pamela Coakley
+fmerwin@axiom.com,FALSE,09/05/2019,12/21/2019,First Class,301,DAL-MDW,285,Frank Merwin
+rhansen,FALSE,10/09/2019,12/11/2019,Economy,61,DAL-AUS,632,Rick Hansen
+mhuthwaite@axiom.com,FALSE,05/06/2019,5/22/2019,Economy,148,DAL-ATL,534,Michelle Huthwaite
+cjumper@axiom.com,FALSE,10/27/2019,11/22/2019,Economy,153,DAL-ATL,133,Caroline Jumper
+dordway,TRUE,8/23/2019,10/01/2019,Economy,69,DAL-HOU,228,Denny Ordway
+mcrier,FALSE,8/28/2019,9/29/2019,Economy,86,DAL-LGA,484,Marc Crier
+cdarley@axiom.com,FALSE,03/12/2019,6/23/2019,Economy,74,DAL-AUS,131,Carol Darley
+mfederle@axiom.com,TRUE,04/11/2019,05/02/2019,First Class,243,DAL-SEA,549,Monica Federle
+abixby@axiom.com,FALSE,06/05/2019,7/21/2019,Economy,92,DAL-SFO,10,Aimee Bixby
+sjordon@axiom.com,FALSE,08/05/2019,9/14/2019,Economy,147,DAL-OKC,680,Sarah Jordon
+cphan@axiom.com,TRUE,11/17/2019,12/07/2019,Economy,129,DAL-SLC,155,Christine Phan
+cabelman@axiom.com,FALSE,10/29/2019,11/27/2019,Economy,97,DAL-OKC,153,Christine Abelman
+emoren@axiom.com,FALSE,4/27/2019,06/03/2019,Business,132,DAL-AUS,275,Eugene Moren
+rcollins@axiom.com,TRUE,03/06/2019,6/30/2019,Economy,139,DAL-PHX,654,Roy Collins
+sperrino@axiom.com,FALSE,8/28/2019,11/04/2019,Economy,79,DAL-AMA,707,Stefania Perrino
+bdavis@axiom.com,FALSE,12/08/2019,12/20/2019,Economy,81,DAL-CLE,118,Bryan Davis
+x,TRUE,11/21/2019,12/29/2019,Business,148,DAL-AUS,496,Mark Hamilton
+gmatthias@axiom.com,FALSE,10/31/2019,12/12/2019,Economy,91,DAL-HOU,311,Greg Matthias
+gmaxwell@axiom.com,FALSE,12/13/2019,12/28/2019,Economy,141,DAL-HOU,312,Greg Maxwell
+dcampbell@axiom.com,FALSE,1/30/2019,3/30/2019,Economy,96,DAL-AUS,189,Dan Campbell
+pstevenson@axiom.com,FALSE,10/11/2019,10/30/2019,Economy,115,DAL-OKC,597,Paul Stevenson
+azypern@axiom.com,TRUE,08/06/2019,9/18/2019,Economy,130,DAL-HOU,50,Annie Zypern
+rd'ascenzo@axiom.com,FALSE,10/27/2019,11/16/2019,Economy,133,DAL-AUS,661,Russell D'Ascenzo
+pflathmann@axiom.com,FALSE,02/07/2019,04/10/2019,Business,97,DAL-AUS,614,Phillip Flathmann
+lolson@axiom.com,FALSE,08/04/2019,09/09/2019,Economy,62,DAL-ATL,477,Lori Olson
+jfarry@axiom.com,FALSE,6/19/2019,07/03/2019,Business,156,DAL-TUL,365,Jeremy Farry
+agannaway@axiom.com,FALSE,8/17/2019,09/07/2019,Economy,73,DAL-ATL,20,Aleksandra Gannaway
+cadams@axiom.com,FALSE,09/11/2019,11/29/2019,Economy,150,DAL-GRR,130,Carol Adams
+ahood@axiom.com,FALSE,8/27/2019,09/05/2019,Economy,100,DAL-GRR,39,Angele Hood
+rsperren@axiom.com,FALSE,03/02/2019,03/11/2019,Economy,144,DAL-OKC,627,Ricardo Sperren
+ghansen@axiom.com,FALSE,6/24/2019,10/14/2019,Economy,157,DAL-HOU,310,Greg Hansen
+gzrebassa@axiom.com,FALSE,11/06/2019,11/29/2019,Economy,73,DAL-HOU,302,George Zrebassa
+darnett@axiom.com,FALSE,11/16/2019,12/11/2019,Economy,155,DAL-ELP,229,Dianna Arnett
+aballentine@axiom.com,FALSE,9/28/2019,11/23/2019,Economy,136,DAL-CLE,17,Alejandro Ballentine
+ekiefer@axiom.com,FALSE,01/09/2019,02/06/2019,First Class,258,DAL-ATL,252,Eileen Kiefer
+bspruell@axiom.com,FALSE,8/31/2019,09/11/2019,Economy,74,DAL-AUS,120,Bryan Spruell
+agjertsen@axiom.com,FALSE,4/16/2019,5/18/2019,Economy,110,DAL-MDW,33,Andrew Gjertsen
+jpatt@axiom.com,FALSE,08/01/2019,11/20/2019,Economy,121,DAL-MDW,363,Jennifer Patt
+schapman@axiom.com,FALSE,5/15/2019,6/13/2019,Economy,84,DAL-MDW,712,Steve Chapman
+lelliston@axiom.com,FALSE,06/09/2019,07/09/2019,First Class,210,DAL-HOU,453,Laurel Elliston
+kwillman,FALSE,8/30/2019,9/25/2019,Economy,106,DAL-GRR,428,Katrina Willman
+smackendrick@axiom.com,TRUE,6/26/2019,09/09/2019,Economy,96,DAL-MDW,726,Susan MacKendrick
+shopkins@axiom.com,FALSE,8/14/2019,09/06/2019,Economy,122,DAL-HOU,692,Shahid Hopkins
+mbrown@axiom.com,FALSE,12/09/2018,3/22/2019,Business,128,DAL-LGA,538,Mick Brown
+lmackendrick@axiom.com,FALSE,5/24/2019,08/12/2019,Economy,130,DAL-AUS,470,Liz MacKendrick
+jairdo@axiom.com,TRUE,8/26/2019,12/01/2019,Economy,62,DAL-ATL,397,Joseph Airdo
+mcrier,FALSE,07/11/2019,9/29/2019,Economy,85,DAL-OKC,484,Marc Crier
+lmackendrick@axiom.com,FALSE,11/15/2019,12/10/2019,Economy,142,DAL-GRR,470,Liz MacKendrick
+mwebber@axiom.com,FALSE,10/03/2019,11/04/2019,First Class,288,DAL-HOU,547,Mitch Webber
+remerson@axiom.com,FALSE,11/21/2019,12/25/2019,Economy,81,DAL-SFO,626,Ricardo Emerson
+gweimer@axiom.com,TRUE,10/02/2019,10/24/2019,Economy,96,DAL-LAS,306,Giulietta Weimer
+fchung@axiom.com,FALSE,1/28/2019,2/23/2019,Business,110,DAL-AUS,288,Fred Chung
+asavely@axiom.com,FALSE,2/21/2019,3/29/2019,Economy,82,DAL-OKC,19,Alejandro Savely
+igibson@axiom.com,FALSE,1/23/2019,03/05/2019,Economy,141,DAL-ELP,338,Ivan Gibson
+erittenbach,FALSE,10/17/2019,11/21/2019,First Class,263,DAL-ATL,256,Elpida Rittenbach
+mlichtenstein@axiom.com,FALSE,6/29/2019,7/17/2019,First Class,234,DAL-OKC,492,Marina Lichtenstein
+so'donnell@axiom.com,FALSE,10/14/2019,12/18/2019,First Class,215,DAL-ATL,688,Sean O'Donnell
+kferguson@axiom.com,FALSE,04/12/2019,5/27/2019,Economy,84,DAL-ELP,418,Karen Ferguson
+sperrino@axiom.com,FALSE,7/23/2019,11/04/2019,Economy,140,DAL-MDW,707,Stefania Perrino
+x,FALSE,12/10/2019,12/29/2019,Economy,148,DAL-PHX,496,Mark Hamilton
+dpardue@axiom.com,FALSE,01/06/2019,1/13/2019,Economy,150,DAL-HOU,225,Dennis Pardue
+kseio@axiom.com,FALSE,9/28/2019,11/05/2019,Economy,97,DAL-ATL,419,Karen Seio
+mnguyen@axiom.com,FALSE,8/31/2019,11/16/2019,Economy,126,DAL-TUL,528,Michael Nguyen
+ghwang@axiom.com,TRUE,11/23/2019,12/20/2019,Economy,79,DAL-PHX,294,Gary Hwang
+dkane@axiom.com,TRUE,9/17/2019,10/11/2019,Economy,150,DAL-HOU,224,Dennis Kane
+ashami@axiom.com,FALSE,11/11/2019,12/09/2019,Economy,84,DAL-HOU,9,Adrian Shami
+iliston@axiom.com,FALSE,10/21/2019,11/22/2019,Economy,82,DAL-GRR,339,Ivan Liston
+azypern@axiom.com,FALSE,07/08/2019,9/18/2019,Economy,96,DAL-LGA,50,Annie Zypern
+mconnell@axiom.com,TRUE,11/11/2019,12/25/2019,Economy,119,DAL-AUS,506,Matt Connell
+csoltero@axiom.com,FALSE,08/03/2019,12/05/2019,Economy,153,DAL-AUS,129,Carlos Soltero
+pfox@axiom.com,FALSE,6/29/2019,9/14/2019,Economy,149,DAL-HOU,610,Philip Fox
+spistek@axiom.com,FALSE,7/26/2019,8/27/2019,Economy,157,DAL-OKC,727,Susan Pistek
+rfranzösisch@axiom.com,FALSE,11/03/2019,11/20/2019,Economy,129,DAL-SLC,655,Roy Französisch
+carntzen@axiom.com,FALSE,9/25/2019,12/11/2019,Economy,66,DAL-HOU,184,Cynthia Arntzen
+mskach@axiom.com,FALSE,09/04/2019,11/11/2019,Economy,69,DAL-LAS,501,MaryBeth Skach
+rwilson@axiom.com,FALSE,09/12/2019,10/16/2019,Economy,156,DAL-AUS,635,Rick Wilson
+ekiefer@axiom.com,FALSE,7/18/2019,08/04/2019,Economy,138,DAL-LGA,252,Eileen Kiefer
+aferguson@axiom.com,FALSE,08/04/2019,09/08/2019,Economy,159,DAL-PHX,58,Art Ferguson
+rwaldorf@axiom.com,FALSE,10/26/2018,1/19/2019,Economy,61,DAL-AUS,645,Robert Waldorf
+ebarchas@axiom.com,FALSE,7/24/2019,10/07/2019,Economy,122,DAL-PHX,273,Eugene Barchas
+jhirsh@axiom.com,FALSE,02/11/2019,4/14/2019,Economy,118,DAL-MDW,411,Justin Hirsh
+ccheatham@axiom.com,FALSE,11/07/2019,12/28/2019,Economy,70,DAL-TUL,169,Clay Cheatham
+plucas@axiom.com,FALSE,10/05/2019,12/04/2019,Business,89,DAL-OKC,594,Paul Lucas
+pvan@axiom.com,FALSE,7/30/2019,10/28/2019,Business,118,DAL-MDW,598,Paul Van Hugh
+cmagee@axiom.com,FALSE,9/26/2019,10/12/2019,Business,88,DAL-AUS,162,Chuck Magee
+gthornton@axiom.com,FALSE,11/05/2019,11/22/2019,Economy,113,DAL-SFO,316,Guy Thornton
+schapman@axiom.com,FALSE,5/14/2019,6/13/2019,Business,142,DAL-HOU,712,Steve Chapman
+lelliston@axiom.com,FALSE,06/12/2019,07/09/2019,Economy,135,DAL-AUS,453,Laurel Elliston
+lblacks@axiom.com,FALSE,08/01/2019,11/01/2019,Economy,110,DAL-AMA,448,Larry Blacks
+dbickford@axiom.com,FALSE,01/01/2019,3/16/2019,Economy,85,DAL-PHX,240,Doug Bickford
+mbrown@axiom.com,FALSE,03/01/2019,3/22/2019,Economy,124,DAL-HOU,538,Mick Brown
+rhansen,TRUE,11/28/2019,12/11/2019,Economy,115,DAL-OKC,632,Rick Hansen
+gkelly@axiom.com,FALSE,08/10/2019,9/13/2019,Economy,96,DAL-ELP,307,Grace Kelly
+kferguson@axiom.com,TRUE,2/20/2019,04/12/2019,Economy,114,DAL-HOU,418,Karen Ferguson
+dordway,FALSE,7/13/2019,10/01/2019,Economy,124,DAL-AUS,228,Denny Ordway
+mcrier,FALSE,9/19/2019,9/29/2019,Economy,75,DAL-SLC,484,Marc Crier
+grosenberg@axiom.com,FALSE,09/09/2019,12/09/2019,Economy,64,DAL-HOU,303,Georgia Rosenberg
+scompany@axiom.com,FALSE,8/28/2019,9/30/2019,Economy,76,DAL-LAS,669,Sample Company A
+mwebber@axiom.com,FALSE,9/22/2019,11/04/2019,Economy,67,DAL-AMA,547,Mitch Webber
+jsmith@axiom.com,FALSE,2/28/2019,5/18/2019,Economy,86,DAL-AUS,401,Joy Smith
+cabelman@axiom.com,FALSE,9/18/2019,11/27/2019,Economy,126,DAL-SEA,153,Christine Abelman
+emoren@axiom.com,FALSE,4/24/2019,06/03/2019,Business,98,DAL-PHX,275,Eugene Moren
+rschwarz@axiom.com,TRUE,11/13/2019,11/28/2019,Economy,136,DAL-PHX,650,Roland Schwarz
+sperrino@axiom.com,FALSE,9/20/2019,11/04/2019,Economy,127,DAL-LAS,707,Stefania Perrino
+scraven@axiom.com,FALSE,02/11/2019,03/12/2019,Economy,101,DAL-HOU,667,Sam Craven
+x,TRUE,8/29/2019,12/29/2019,Economy,115,DAL-ELP,496,Mark Hamilton
+bfisher@axiom.com,FALSE,11/14/2019,12/02/2019,Economy,66,DAL-HOU,65,Barbara Fisher
+po'brill@axiom.com,FALSE,4/15/2019,05/12/2019,Economy,79,DAL-SFO,589,Patrick O'Brill
+bbowman@axiom.com,TRUE,08/09/2019,9/30/2019,Economy,70,DAL-GRR,103,Brenda Bowman
+dkane@axiom.com,FALSE,8/24/2019,10/11/2019,First Class,220,DAL-ELP,224,Dennis Kane
+kheidel@axiom.com,FALSE,10/19/2019,12/09/2019,Business,146,DAL-OKC,441,Ken Heidel
+hgreene@axiom.com,FALSE,07/09/2019,09/05/2019,Business,102,DAL-AUS,322,Harry Greene
+sroach@axiom.com,FALSE,10/28/2019,12/15/2019,Economy,90,DAL-PHX,694,Sharelle Roach
+jsundaresam@axiom.com,FALSE,7/15/2019,08/12/2019,Economy,155,DAL-ATL,395,Joni Sundaresam
+ajones@axiom.com,FALSE,05/08/2019,5/21/2019,Business,112,DAL-ATL,64,Astrea Jones
+carntzen@axiom.com,FALSE,10/25/2019,12/11/2019,Economy,66,DAL-LGA,184,Cynthia Arntzen
+ahwang@axiom.com,FALSE,11/02/2019,12/28/2019,Economy,68,DAL-OKC,14,Alan Hwang
+kheidel@axiom.com,FALSE,02/03/2019,2/20/2019,Economy,153,DAL-AUS,441,Ken Heidel
+jgalang@axiom.com,FALSE,7/24/2019,9/23/2019,Economy,115,DAL-HOU,343,James Galang
+ablume@axiom.com,FALSE,9/29/2019,10/19/2019,Economy,62,DAL-ATL,40,Ann Blume
+aferguson@axiom.com,FALSE,6/24/2019,09/08/2019,Economy,92,DAL-ATL,58,Art Ferguson
+ebecker@axiom.com,FALSE,03/06/2019,5/29/2019,Economy,131,DAL-AUS,249,Edward Becker
+jelijah@axiom.com,FALSE,9/17/2019,10/27/2019,Economy,132,DAL-ELP,380,Joe Elijah
+fcarlisle@axiom.com,TRUE,4/24/2019,6/26/2019,Economy,153,DAL-LAS,282,Frank Carlisle
+dvan@axiom.com,FALSE,10/17/2019,11/20/2019,Economy,74,DAL-OKC,202,Darrin Van Huff
+lthompson@axiom.com,FALSE,5/31/2019,6/29/2019,Economy,71,DAL-HOU,473,Liz Thompson
+pvan@axiom.com,FALSE,09/12/2019,10/28/2019,Economy,64,DAL-MDW,598,Paul Van Hugh
+jlonsdale@axiom.com,TRUE,9/20/2019,10/11/2019,Economy,65,DAL-HOU,366,Jeremy Lonsdale
+sknutson@axiom.com,FALSE,05/08/2019,5/22/2019,First Class,299,DAL-MDW,665,Sally Knutson
+lelliston@axiom.com,FALSE,05/05/2019,07/09/2019,Economy,74,DAL-OKC,453,Laurel Elliston
+awitt@axiom.com,FALSE,10/29/2019,12/13/2019,Economy,121,DAL-SLC,56,Anthony Witt
+pcoakley,FALSE,07/11/2019,8/26/2019,Economy,73,DAL-OKC,582,Pamela Coakley
+x,FALSE,10/31/2019,12/11/2019,Economy,111,DAL-OKC,191,Dan Reichenbach
+lfoster@axiom.com,FALSE,10/13/2019,11/25/2019,First Class,218,DAL-HOU,478,Luke Foster
+mhuthwaite@axiom.com,TRUE,03/07/2019,5/22/2019,First Class,222,DAL-ELP,534,Michelle Huthwaite
+cjumper@axiom.com,TRUE,10/19/2019,11/22/2019,First Class,211,DAL-PHX,133,Caroline Jumper
+dordway,FALSE,08/03/2019,10/01/2019,Economy,111,DAL-LGA,228,Denny Ordway
+mcrier,FALSE,9/17/2019,9/29/2019,Economy,147,DAL-LAS,484,Marc Crier
+cdarley@axiom.com,FALSE,5/30/2019,6/23/2019,Economy,86,DAL-ELP,131,Carol Darley
+belias@axiom.com,FALSE,01/09/2019,2/24/2019,First Class,301,DAL-ELP,94,Bobby Elias
+sjordon@axiom.com,TRUE,6/26/2019,9/14/2019,Economy,86,DAL-MDW,680,Sarah Jordon
+bdrucker@axiom.com,FALSE,02/06/2019,3/16/2019,Economy,116,DAL-MDW,100,Bradley Drucker
+dbickford@axiom.com,FALSE,8/15/2019,9/25/2019,Economy,137,DAL-HOU,240,Doug Bickford
+emoren@axiom.com,TRUE,04/03/2019,06/03/2019,Economy,71,DAL-HOU,275,Eugene Moren
+bdavis@axiom.com,FALSE,12/04/2019,12/20/2019,Economy,148,DAL-MDW,118,Bryan Davis
+ro'brian@axiom.com,FALSE,7/25/2019,8/23/2019,Economy,91,DAL-HOU,651,Rose O'Brian
+ltron@axiom.com,FALSE,11/12/2019,12/27/2019,Economy,72,DAL-MDW,450,Larry Tron
+afoster@axiom.com,FALSE,08/05/2019,09/04/2019,Economy,81,DAL-PHX,59,Art Foster
+gmaxwell@axiom.com,FALSE,11/29/2019,12/28/2019,Economy,85,DAL-LAS,312,Greg Maxwell
+ghwang@axiom.com,FALSE,11/14/2019,12/20/2019,Economy,79,DAL-OKC,294,Gary Hwang
+ahunt@axiom.com,FALSE,9/22/2019,11/06/2019,Economy,133,DAL-HOU,31,Amy Hunt
+dkane@axiom.com,FALSE,7/31/2019,10/11/2019,First Class,286,DAL-SLC,224,Dennis Kane
+ashami@axiom.com,FALSE,11/16/2019,12/09/2019,Economy,76,DAL-HOU,9,Adrian Shami
+azypern@axiom.com,FALSE,7/16/2019,9/18/2019,Economy,120,DAL-OKC,50,Annie Zypern
+mconnell@axiom.com,FALSE,11/09/2019,12/25/2019,Economy,159,DAL-GRR,506,Matt Connell
+csoltero@axiom.com,FALSE,10/29/2019,12/05/2019,Economy,153,DAL-HOU,129,Carlos Soltero
+jfarry@axiom.com,TRUE,4/26/2019,07/03/2019,Business,166,DAL-LGA,365,Jeremy Farry
+spistek@axiom.com,FALSE,7/29/2019,8/27/2019,Economy,94,DAL-OKC,727,Susan Pistek
+rfranzösisch@axiom.com,FALSE,10/20/2019,11/20/2019,Economy,129,DAL-ATL,655,Roy Französisch
+cadams@axiom.com,TRUE,11/16/2019,11/29/2019,Economy,60,DAL-GRR,130,Carol Adams
+carntzen@axiom.com,FALSE,11/24/2019,12/11/2019,First Class,284,DAL-AUS,184,Cynthia Arntzen
+mskach@axiom.com,FALSE,10/05/2019,11/11/2019,Economy,65,DAL-AUS,501,MaryBeth Skach
+rsperren@axiom.com,FALSE,02/10/2019,03/11/2019,Economy,63,DAL-AUS,627,Ricardo Sperren
+svan@axiom.com,FALSE,11/21/2019,12/30/2019,Economy,68,DAL-HOU,720,Stuart Van
+aballentine@axiom.com,FALSE,10/07/2019,11/23/2019,Business,167,DAL-AUS,17,Alejandro Ballentine
+jhirsh@axiom.com,FALSE,3/29/2019,4/14/2019,Economy,111,DAL-GRR,411,Justin Hirsh
+ccheatham@axiom.com,FALSE,11/28/2019,12/28/2019,Business,131,DAL-LAS,169,Clay Cheatham
+mconnell@axiom.com,TRUE,8/25/2019,09/10/2019,Economy,65,DAL-LGA,506,Matt Connell
+ekiefer@axiom.com,FALSE,01/11/2019,02/06/2019,Economy,130,DAL-ATL,252,Eileen Kiefer
+bspruell@axiom.com,FALSE,08/06/2019,09/11/2019,Economy,116,DAL-SEA,120,Bryan Spruell
+agjertsen@axiom.com,FALSE,05/08/2019,5/18/2019,Economy,130,DAL-PHX,33,Andrew Gjertsen
+cmagee@axiom.com,FALSE,7/27/2019,10/12/2019,Economy,88,DAL-MDW,162,Chuck Magee
+x,FALSE,11/17/2019,12/14/2019,Economy,124,DAL-AUS,34,Andrew Roberts
+schapman@axiom.com,FALSE,4/25/2019,6/13/2019,Economy,117,DAL-TUL,712,Steve Chapman
+lelliston@axiom.com,TRUE,05/12/2019,07/09/2019,Economy,80,DAL-AUS,453,Laurel Elliston
+rreed@axiom.com,FALSE,07/02/2019,10/18/2019,Economy,83,DAL-SEA,634,Rick Reed
+dlloyd@axiom.com,TRUE,10/10/2019,10/26/2019,Economy,131,DAL-SLC,232,Dionis Lloyd
+shopkins@axiom.com,FALSE,7/31/2019,09/06/2019,Economy,63,DAL-LGA,692,Shahid Hopkins
+mbrown@axiom.com,FALSE,02/06/2019,3/22/2019,Economy,64,DAL-PHX,538,Mick Brown
+rhansen,FALSE,11/25/2019,12/11/2019,Economy,141,DAL-LAS,632,Rick Hansen
+gkelly@axiom.com,FALSE,8/20/2019,9/13/2019,Economy,127,DAL-AUS,307,Grace Kelly
+dordway,TRUE,08/09/2019,10/01/2019,Economy,128,DAL-GRR,228,Denny Ordway
+mcrier,FALSE,09/06/2019,9/29/2019,Economy,98,DAL-AUS,484,Marc Crier
+jkarlsson@axiom.com,FALSE,7/13/2019,8/21/2019,Economy,72,DAL-SLC,374,Jim Karlsson
+pjones@axiom.com,FALSE,7/19/2019,10/26/2019,Economy,90,DAL-ATL,588,Patrick Jones
+mwebber@axiom.com,FALSE,9/17/2019,11/04/2019,Economy,144,DAL-ATL,547,Mitch Webber
+gweimer@axiom.com,FALSE,8/20/2019,10/24/2019,Economy,125,DAL-HOU,306,Giulietta Weimer
+jsmith@axiom.com,TRUE,4/24/2019,5/18/2019,Economy,91,DAL-CLE,401,Joy Smith
+cabelman@axiom.com,FALSE,9/20/2019,11/27/2019,Economy,110,DAL-PHX,153,Christine Abelman
+mlichtenstein@axiom.com,FALSE,05/07/2019,7/17/2019,Economy,83,DAL-PHX,492,Marina Lichtenstein
+lsouthworth@axiom.com,TRUE,05/03/2019,6/14/2019,Economy,102,DAL-HOU,462,Linda Southworth
+rmarley@axiom.com,FALSE,09/05/2019,11/25/2019,Business,147,DAL-OKC,644,Robert Marley
+rschwarz@axiom.com,TRUE,9/19/2019,11/28/2019,Economy,102,DAL-AUS,650,Roland Schwarz
+sperrino@axiom.com,FALSE,8/13/2019,11/04/2019,Economy,73,DAL-LGA,707,Stefania Perrino
+scraven@axiom.com,FALSE,2/14/2019,03/12/2019,Business,85,DAL-SEA,667,Sam Craven
+x,FALSE,10/20/2019,12/29/2019,Economy,142,DAL-AUS,496,Mark Hamilton
+bfisher@axiom.com,FALSE,11/21/2019,12/02/2019,Economy,93,DAL-OKC,65,Barbara Fisher
+sflanagan@axiom.com,FALSE,11/01/2019,12/05/2019,Economy,94,DAL-PHX,670,Sandra Flanagan
+bbowman@axiom.com,TRUE,09/11/2019,9/30/2019,Economy,67,DAL-HOU,103,Brenda Bowman
+dkane@axiom.com,FALSE,9/14/2019,10/11/2019,First Class,296,DAL-MDW,224,Dennis Kane
+kheidel@axiom.com,FALSE,11/10/2019,12/09/2019,Economy,153,DAL-MDW,441,Ken Heidel
+egrady@axiom.com,FALSE,9/24/2019,11/09/2019,Business,89,DAL-PHX,259,Emily Grady
+hgreene@axiom.com,FALSE,6/23/2019,09/05/2019,Economy,88,DAL-ELP,322,Harry Greene
+sroach@axiom.com,FALSE,11/01/2019,12/15/2019,Economy,135,DAL-LGA,694,Sharelle Roach
+ehildebrand@axiom.com,FALSE,10/04/2019,11/25/2019,Economy,153,DAL-HOU,274,Eugene Hildebrand
+lolson@axiom.com,FALSE,8/20/2019,09/09/2019,Business,147,DAL-AUS,477,Lori Olson
+xx,FALSE,6/18/2019,07/03/2019,Economy,109,DAL-AUS,272,Eudokia Martin
+ehenry@axiom.com,FALSE,11/01/2019,11/30/2019,Economy,67,DAL-MDW,278,Evan Henry
+ajones@axiom.com,FALSE,4/18/2019,5/21/2019,Economy,85,DAL-ATL,64,Astrea Jones
+otoch@axiom.com,TRUE,11/19/2019,12/02/2019,Business,103,DAL-PHX,581,Olvera Toch
+ghansen@axiom.com,FALSE,08/05/2019,10/14/2019,Economy,93,DAL-HOU,310,Greg Hansen
+scooley@axiom.com,FALSE,10/28/2019,11/27/2019,Economy,138,DAL-MDW,704,Sonia Cooley
+scraven@axiom.com,FALSE,11/06/2019,12/09/2019,Economy,131,DAL-LGA,667,Sam Craven
+tsissman@axiom.com,TRUE,2/18/2019,5/23/2019,Economy,132,DAL-HOU,738,Thais Sissman
+fcarlisle@axiom.com,FALSE,2/17/2019,6/26/2019,Economy,157,DAL-OKC,282,Frank Carlisle
+dkaydos@axiom.com,TRUE,9/23/2019,11/23/2019,Economy,75,DAL-ELP,192,Dana Kaydos
+pvan@axiom.com,FALSE,9/26/2019,10/28/2019,Business,117,DAL-HOU,598,Paul Van Hugh
+sknutson@axiom.com,TRUE,05/04/2019,5/22/2019,Economy,112,DAL-HOU,665,Sally Knutson
+tstivers@axiom.com,FALSE,9/18/2019,11/16/2019,Economy,87,DAL-ELP,761,Tom Stivers
+tpippenger@axiom.com,FALSE,9/25/2019,10/16/2019,Economy,113,DAL-OKC,741,Theone Pippenger
+awitt@axiom.com,TRUE,10/16/2019,12/13/2019,Business,88,DAL-ATL,56,Anthony Witt
+pcoakley,FALSE,7/22/2019,8/26/2019,Economy,93,DAL-GRR,582,Pamela Coakley
+mhuthwaite@axiom.com,FALSE,05/01/2019,5/22/2019,Economy,150,DAL-MDW,534,Michelle Huthwaite
+cjumper@axiom.com,FALSE,9/17/2019,11/22/2019,Economy,147,DAL-ELP,133,Caroline Jumper
+dordway,FALSE,08/10/2019,10/01/2019,Business,126,DAL-MDW,228,Denny Ordway
+jairdo@axiom.com,TRUE,11/10/2019,12/01/2019,Business,152,DAL-AUS,397,Joseph Airdo
+bgonzalez@axiom.com,TRUE,7/21/2019,10/22/2019,Economy,87,DAL-SLC,69,Barry Gonzalez
+mwebber@axiom.com,FALSE,8/25/2019,11/04/2019,Economy,99,DAL-MDW,547,Mitch Webber
+sjordon@axiom.com,FALSE,08/10/2019,9/14/2019,Economy,70,DAL-AUS,680,Sarah Jordon
+igibson@axiom.com,FALSE,2/20/2019,03/05/2019,Economy,91,DAL-HOU,338,Ivan Gibson
+rmurray@axiom.com,FALSE,11/18/2018,02/08/2019,Business,134,DAL-AUS,649,Roland Murray
+nbrennan@axiom.com,FALSE,10/30/2019,11/27/2019,First Class,274,DAL-ATL,571,Nicole Brennan
+mjones@axiom.com,FALSE,9/17/2019,10/10/2019,Economy,73,DAL-HOU,515,Max Jones
+kferguson@axiom.com,FALSE,2/24/2019,5/27/2019,Economy,122,DAL-HOU,418,Karen Ferguson
+ashonely@axiom.com,FALSE,11/18/2019,12/06/2019,Economy,152,DAL-LAS,16,Alan Shonely
+afoster@axiom.com,FALSE,6/15/2019,09/04/2019,Economy,119,DAL-HOU,59,Art Foster
+kbavinger@axiom.com,TRUE,02/07/2019,3/14/2019,First Class,309,DAL-HOU,426,Katrina Bavinger
+mgockenbach@axiom.com,FALSE,8/31/2019,9/13/2019,First Class,224,DAL-AUS,542,Mike Gockenbach
+pstevenson@axiom.com,TRUE,9/27/2019,10/30/2019,Economy,109,DAL-SLC,597,Paul Stevenson
+knockton@axiom.com,FALSE,05/09/2019,6/15/2019,Economy,83,DAL-ATL,425,Katherine Nockton
+azypern@axiom.com,TRUE,8/17/2019,9/18/2019,Economy,120,DAL-HOU,50,Annie Zypern
+rd'ascenzo@axiom.com,FALSE,10/28/2019,11/16/2019,Economy,117,DAL-LGA,661,Russell D'Ascenzo
+mbertelson@axiom.com,FALSE,6/19/2019,09/11/2019,Business,178,DAL-MDW,486,Maria Bertelson
+pflathmann@axiom.com,FALSE,03/12/2019,04/10/2019,Economy,137,DAL-LGA,614,Phillip Flathmann
+lolson@axiom.com,FALSE,8/26/2019,09/09/2019,Economy,122,DAL-HOU,477,Lori Olson
+jfarry@axiom.com,FALSE,06/12/2019,07/03/2019,Economy,107,DAL-LGA,365,Jeremy Farry
+ahaines@axiom.com,FALSE,10/10/2019,12/21/2019,Economy,152,DAL-CLE,13,Alan Haines
+creiter@axiom.com,FALSE,3/22/2019,05/07/2019,Economy,130,DAL-MDW,181,Craig Reiter
+ehackney@axiom.com,FALSE,2/21/2019,3/22/2019,Economy,83,DAL-ATL,265,Erica Hackney
+jeaton@axiom.com,FALSE,4/13/2019,06/02/2019,Economy,133,DAL-ELP,382,Joel Eaton
+ghansen@axiom.com,FALSE,9/19/2019,10/14/2019,Economy,135,DAL-ELP,310,Greg Hansen
+darnett@axiom.com,FALSE,11/20/2019,12/11/2019,Economy,144,DAL-AUS,229,Dianna Arnett
+npelletier@axiom.com,FALSE,11/05/2019,12/20/2019,Economy,88,DAL-OKC,578,Nora Pelletier
+cmeador@axiom.com,FALSE,10/19/2019,11/24/2019,Economy,148,DAL-AUS,128,Carlos Meador
+jsink@axiom.com,FALSE,05/09/2019,5/18/2019,Economy,152,DAL-MDW,378,Jim Sink
+pwebber@axiom.com,FALSE,11/29/2019,12/21/2019,First Class,252,DAL-OKC,601,Pauline Webber
+po'donnell@axiom.com,FALSE,9/16/2019,10/08/2019,Economy,104,DAL-HOU,590,Patrick O'Donnell
+ekiefer@axiom.com,FALSE,12/10/2018,02/06/2019,Economy,93,DAL-LAS,252,Eileen Kiefer
+bspruell@axiom.com,FALSE,7/24/2019,09/11/2019,Economy,69,DAL-AMA,120,Bryan Spruell
+tmanning@axiom.com,FALSE,11/19/2018,1/15/2019,Economy,117,DAL-LGA,733,Tamara Manning
+schapman@axiom.com,FALSE,4/26/2019,6/13/2019,Economy,151,DAL-ELP,712,Steve Chapman
+tpippenger@axiom.com,FALSE,8/29/2019,10/16/2019,First Class,225,DAL-AUS,741,Theone Pippenger
+dpercer@axiom.com,FALSE,10/26/2019,11/08/2019,Economy,105,DAL-HOU,215,Dean percer
+pcoakley,TRUE,6/20/2019,8/26/2019,First Class,222,DAL-PHX,582,Pamela Coakley
+mbrown@axiom.com,TRUE,2/24/2019,3/22/2019,Economy,113,DAL-LGA,538,Mick Brown
+mhuthwaite@axiom.com,FALSE,4/16/2019,5/22/2019,Business,139,DAL-ATL,534,Michelle Huthwaite
+rausman@axiom.com,FALSE,2/22/2019,3/20/2019,Economy,80,DAL-CLE,658,Ruben Ausman
+jairdo@axiom.com,FALSE,9/16/2019,12/01/2019,Economy,77,DAL-AMA,397,Joseph Airdo
+mcrier,FALSE,09/11/2019,9/29/2019,Economy,91,DAL-AUS,484,Marc Crier
+mcrebagga@axiom.com,FALSE,06/03/2019,6/13/2019,Business,130,DAL-MDW,539,Mick Crebagga
+lmackendrick@axiom.com,TRUE,11/17/2019,12/10/2019,Economy,155,DAL-HOU,470,Liz MacKendrick
+mwebber@axiom.com,FALSE,10/24/2019,11/04/2019,Economy,95,DAL-ELP,547,Mitch Webber
+jgalang@axiom.com,FALSE,11/07/2019,11/14/2019,Economy,139,DAL-OKC,343,James Galang
+remerson@axiom.com,FALSE,10/12/2019,12/25/2019,Economy,64,DAL-HOU,626,Ricardo Emerson
+fchung@axiom.com,FALSE,1/30/2019,2/23/2019,Economy,138,DAL-MDW,288,Fred Chung
+igibson@axiom.com,TRUE,01/02/2019,03/05/2019,Economy,129,DAL-MDW,338,Ivan Gibson
+eashbrook@axiom.com,FALSE,11/07/2019,11/24/2019,Economy,66,DAL-LAS,268,Erin Ashbrook
+mjones@axiom.com,FALSE,7/26/2019,10/10/2019,Economy,111,DAL-HOU,515,Max Jones
+jkamberova@axiom.com,TRUE,9/23/2019,10/04/2019,Economy,121,DAL-MDW,381,Joe Kamberova
+kferguson@axiom.com,TRUE,3/28/2019,5/27/2019,Economy,68,DAL-GRR,418,Karen Ferguson
+aallen@axiom.com,TRUE,03/04/2019,3/15/2019,Business,151,DAL-HOU,32,Andrew Allen
+mfritzler@axiom.com,FALSE,9/15/2019,10/23/2019,Economy,106,DAL-SLC,510,Maureen Fritzler
